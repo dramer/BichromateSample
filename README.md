@@ -14,3 +14,5 @@ extend billFireBaseTestNGDeclaration  for every test you write. This gives you a
 
 # Updates
 8/28/2016 initial version. Sample project coming soon.  Email DavidWRamer@yahoo.com for more information.
+
+12/6/2016  Added supporting pom files, Directories, and Bichromate.jar
