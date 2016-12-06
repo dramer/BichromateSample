@@ -10,7 +10,9 @@ Download Bichromate.jar
 
 extends sTestWebDriverFactory - to gain access in creating all the necesarry webdrivers. Extending sTestWebDriverFactory also gives you access to Bichromate's Factories. You must pass in the Bichromate properties file when extending and creating sTestWebDriverFactory.
 
-extend billFireBaseTestNGDeclaration  for every test you write. This gives you access to Extend reports, and Bichromate reports. Also handles test when they fail by taking screen shots of the failed. page
+extend sTestBaseTestNGDeclaration  for every test you write. This gives you access to Extend reports, and Bichromate reports. Also handles test when they fail by taking screen shots of the failed.
+
+Creating Page Object Models you extend sTestBasePageDeclaration - This gives you all the methods for finding objects on the page.
 
 # Updates
 8/28/2016 initial version. Sample project coming soon.  Email DavidWRamer@yahoo.com for more information.
