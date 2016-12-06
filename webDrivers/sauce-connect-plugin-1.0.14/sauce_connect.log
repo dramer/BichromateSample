@@ -1,0 +1,680 @@
+2014-02-19 14:12:25,325 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:12:25,368 - sauce_connect:0 - INFO - IOException: java.io.IOException: An established connection was aborted by the software in your host machine
+2014-02-19 14:12:25,371 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:12:25,371 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:12:26,322 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:12:26,526 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:12:26,526 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:12:26,533 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:12:26,538 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:12:26,539 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:12:27,526 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:12:27,713 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:12:27,713 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:12:27,720 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:12:27,721 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:12:27,723 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:12:28,716 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:12:28,813 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:12:28,815 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:12:28,822 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:12:28,825 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:12:28,825 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:12:29,813 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:12:29,937 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:12:29,937 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:12:29,947 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:12:29,948 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:12:29,950 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:12:30,937 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:12:31,118 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:12:31,119 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:12:31,125 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:12:31,131 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:12:31,134 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:12:32,148 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:12:32,217 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:12:32,220 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:12:32,226 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:12:32,232 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:12:32,233 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:12:33,217 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:12:33,315 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:12:33,318 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:12:33,328 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:12:33,332 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:12:33,334 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:12:34,315 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:12:34,413 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:12:34,414 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:12:34,421 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:12:34,424 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:12:34,427 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:12:35,413 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:12:35,520 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:12:35,523 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:12:35,529 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:12:35,532 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:12:35,533 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:12:36,535 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:12:36,614 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:12:36,615 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:12:36,621 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:12:36,625 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:12:36,625 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:12:37,614 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:12:37,716 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:12:37,719 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:12:37,730 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:12:37,733 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:12:37,736 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:12:38,716 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:12:38,831 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:12:38,832 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:12:38,854 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:12:38,855 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:12:38,990 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:12:39,832 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:12:40,125 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:12:40,127 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:12:40,134 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:12:40,137 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:12:40,138 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:12:41,131 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:12:41,223 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:12:41,224 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:12:41,230 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:12:41,233 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:12:41,233 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:12:42,236 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:12:42,312 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:12:42,312 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:12:42,319 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:12:42,321 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:12:42,322 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:12:43,315 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:12:43,413 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:12:43,415 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:12:43,423 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:12:43,427 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:12:43,430 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:12:44,413 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:12:44,532 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:12:44,533 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:12:44,539 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:12:44,542 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:12:44,543 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:12:45,588 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:12:45,726 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:12:45,727 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:12:45,734 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:12:45,736 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:12:45,737 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:12:46,730 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:12:46,816 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:12:46,819 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:12:46,823 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:12:46,828 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:12:46,832 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:12:47,815 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:12:47,934 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:12:47,936 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:12:47,941 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:12:47,944 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:12:47,944 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:12:48,934 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:12:49,111 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:12:49,111 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:12:49,118 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:12:49,121 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:12:49,121 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:12:50,111 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:12:50,221 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:12:50,221 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:12:50,221 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:12:50,223 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:12:50,223 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:12:51,221 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:12:51,326 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:12:51,328 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:12:51,342 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:12:51,346 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:12:51,348 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:12:52,326 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:12:52,584 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:12:52,588 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:12:52,592 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:12:52,595 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:12:52,598 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:12:53,584 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:12:53,711 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:12:53,713 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:12:53,720 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:12:53,723 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:12:53,723 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:12:54,767 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:12:54,874 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:12:54,875 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:12:54,885 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:12:54,888 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:12:54,890 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:12:55,887 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:12:56,015 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:12:56,016 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:12:56,023 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:12:56,028 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:12:56,029 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:12:57,015 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:12:57,111 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:12:57,115 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:12:57,122 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:12:57,127 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:12:57,128 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:12:58,111 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:12:58,210 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:12:58,210 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:12:58,217 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:12:58,220 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:12:58,221 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:12:59,210 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:12:59,322 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:12:59,325 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:12:59,332 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:12:59,335 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:12:59,336 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:00,322 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:00,423 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:00,424 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:00,434 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:00,437 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:00,438 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:01,421 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:01,612 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:01,614 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:01,619 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:01,622 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:01,624 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:02,612 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:02,721 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:02,723 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:02,730 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:02,733 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:02,733 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:03,724 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:03,809 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:03,811 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:03,819 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:03,821 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:03,822 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:04,811 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:05,111 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:05,112 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:05,130 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:05,131 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:05,132 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:06,111 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:06,232 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:06,234 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:06,240 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:06,243 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:06,246 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:07,230 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:07,431 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:07,434 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:07,440 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:07,444 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:07,446 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:08,431 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:08,618 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:08,619 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:08,627 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:08,628 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:08,630 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:09,621 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:09,724 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:09,726 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:09,730 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:09,733 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:09,733 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:10,737 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:10,821 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:10,822 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:10,834 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:10,835 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:10,835 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:11,825 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:11,980 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:11,982 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:11,990 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:11,993 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:11,994 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:12,980 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:13,128 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:13,130 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:13,137 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:13,138 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:13,140 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:14,128 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:14,322 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:14,325 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:14,335 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:14,338 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:14,339 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:15,323 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:15,520 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:15,523 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:15,528 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:15,532 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:15,535 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:16,522 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:16,614 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:16,615 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:16,628 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:16,631 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:16,631 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:17,630 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:17,714 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:17,717 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:17,723 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:17,726 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:17,730 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:18,714 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:18,822 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:18,822 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:18,828 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:18,832 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:18,832 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:19,823 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:19,920 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:19,923 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:19,927 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:19,931 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:19,934 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:20,920 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:21,023 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:21,026 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:21,032 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:21,036 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:21,038 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:22,023 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:22,111 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:22,112 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:22,121 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:22,125 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:22,128 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:23,111 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:23,211 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:23,213 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:23,221 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:23,226 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:23,227 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:24,210 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:24,410 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:24,411 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:24,417 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:24,423 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:24,424 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:25,408 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:25,588 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:25,591 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:25,598 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:25,602 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:25,604 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:26,588 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:26,710 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:26,713 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:26,805 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:26,806 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:26,808 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:27,709 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:27,934 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:27,938 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:27,940 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:27,923 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:27,941 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:28,938 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:29,171 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:29,173 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:29,180 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:29,181 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:29,183 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:30,187 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:30,338 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:30,341 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:30,345 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:30,349 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:30,351 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:31,338 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:31,522 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:31,523 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:31,529 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:31,533 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:31,536 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:32,523 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:32,609 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:32,611 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:32,618 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:32,621 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:32,625 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:33,608 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:33,882 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:33,884 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:33,891 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:33,894 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:33,894 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:34,887 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:35,045 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:35,046 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:35,052 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:35,055 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:35,058 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:36,049 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:36,207 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:36,207 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:36,214 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:36,217 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:36,217 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:37,207 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:37,321 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:37,322 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:37,332 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:37,336 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:37,338 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:38,321 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:38,509 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:38,509 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:38,519 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:38,522 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:38,523 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:39,509 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:39,607 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:39,609 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:39,615 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:39,619 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:39,622 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:40,607 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:40,709 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:40,710 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:40,716 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:40,719 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:40,721 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:41,707 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:41,821 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:41,822 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:41,828 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:41,832 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:41,834 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:42,825 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:42,924 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:42,927 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:42,933 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:42,936 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:42,937 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:43,924 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:44,012 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:44,013 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:44,020 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:44,025 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:44,026 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:45,012 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:45,128 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:45,131 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:45,135 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:45,138 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:45,141 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:46,127 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:46,349 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:46,351 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:46,358 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:46,361 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:46,362 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:47,349 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:47,519 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:47,520 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:47,528 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:47,529 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:47,530 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:48,520 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:48,608 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:48,609 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:48,617 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:48,618 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:48,619 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:49,611 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:49,868 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:49,868 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:49,878 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:49,881 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:49,881 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:50,868 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:51,048 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:51,049 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:51,059 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:51,062 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:51,062 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:52,046 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:52,220 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:52,220 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:52,230 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:52,230 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:52,232 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:53,223 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:53,319 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:53,319 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:53,326 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:53,329 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:53,331 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:54,318 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:54,408 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:54,410 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:54,415 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:54,418 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:54,420 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:55,407 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:55,526 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:55,528 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:55,533 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:55,535 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:55,536 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:56,528 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:56,617 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:56,618 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:56,624 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:56,625 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:56,627 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:57,617 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:57,726 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:57,727 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:57,734 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:57,737 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:57,739 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:58,818 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:13:58,917 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:13:58,918 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:13:58,927 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:13:58,930 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:13:58,930 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:13:59,920 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:14:00,046 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:14:00,048 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:14:00,066 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:14:00,069 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:14:00,071 - sauce_connect:0 - INFO - IOException: java.io.IOException: An established connection was aborted by the software in your host machine
+2014-02-19 14:14:00,072 - sauce_connect:0 - INFO - IOException: java.io.IOException: An established connection was aborted by the software in your host machine
+2014-02-19 14:14:01,049 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:14:01,216 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:14:01,217 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:14:01,223 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:14:01,224 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:14:01,224 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:14:02,217 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:14:04,891 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:14:04,892 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:14:04,894 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:14:04,903 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:14:04,904 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:14:05,891 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:14:06,017 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:14:06,019 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:14:06,026 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:14:06,028 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:14:06,028 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:14:07,017 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:14:07,118 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:14:07,121 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:14:07,127 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:14:07,130 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:14:07,131 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:14:08,117 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:14:08,220 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:14:08,221 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:14:08,230 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:14:08,233 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:14:08,236 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:14:09,219 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:14:09,318 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:14:09,321 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:14:09,325 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:14:09,331 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:14:09,332 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:14:10,319 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:14:10,421 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:14:10,424 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:14:10,430 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:14:10,433 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:14:10,434 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:14:11,421 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:14:11,520 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:14:11,525 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:14:11,529 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:14:11,523 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:14:11,530 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:14:12,526 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:14:12,617 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:14:12,618 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:14:12,625 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:14:12,628 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:14:12,631 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:14:13,617 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:14:13,727 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:14:13,727 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:14:13,729 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:14:13,734 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:14:13,736 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:14:14,727 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:14:14,819 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:14:14,822 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:14:14,832 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:14:14,835 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:14:14,836 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:14:15,819 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:14:16,023 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:14:16,026 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:14:16,030 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:14:16,035 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:14:16,036 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:14:17,023 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-19 14:14:17,119 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-19 14:14:17,121 - sauce_connect:0 - INFO - resending 1 packets
+2014-02-19 14:14:17,131 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 3f7c6a1151e6420fb0211cef134a853a
+2014-02-19 14:14:17,137 - sauce_connect:0 - INFO - disconnected from Sauce Connect server
+2014-02-19 14:14:17,138 - sauce_connect:0 - INFO - connection to Sauce Connect server closed
+2014-02-19 14:14:18,119 - sauce_connect:0 - INFO - old keepalive timer shutting down
+2014-02-21 12:30:59,204 - sauce_connect:539 - INFO - / Starting \
+2014-02-21 12:30:59,210 - sauce_connect:540 - INFO - Please wait for "You may start your tests" to start your tests.
+2014-02-21 12:30:59,220 - sauce_connect:552 - DEBUG - System is -7.0 hours off UTC
+2014-02-21 12:30:59,221 - sauce_connect:554 - DEBUG - options: {'user': 'dramer', 'ports': ['61050'], 'domains': ['sauce-connect.proxy'], 'debug_ssh': False, 'tunnel_ports': ['80'], 'allow_unclean_exit': False, 'rest_url': 'https://saucelabs.com/rest/v1', 'logfile': 'sauce_connect.log', 'squid_opts': '', 'ssh': False, 'se_port': '4445', 'readyfile': None, 'boost_mode': True, 'shared_tunnel': False, 'ssh_port': 443, 'fast_fail_regexps': '', 'direct_domains': '', 'host': '127.0.0.1', 'quiet': False, 'latency_log': 150, 'use_ssh_config': False}
+2014-02-21 12:30:59,223 - sauce_connect:555 - DEBUG - metadata: {'PythonVersion': '2.5.1', 'OwnerHost': '127.0.0.1', 'Release': '3.0-r24', 'OwnerPorts': ['61050'], 'Ports': ['80'], 'Platform': 'Java-1.7.0_10-Java_HotSpot-TM-_64-Bit_Server_VM,_23.6-b04,_Oracle_Corporation-on-Windows_7-6.1-amd64', 'Build': '35', 'ScriptRelease': 35, 'ScriptName': 'sauce_connect'}
+2014-02-21 12:30:59,224 - sauce_connect:557 - INFO - Forwarding: ['sauce-connect.proxy']:['80'] -> 127.0.0.1:['61050']
+2014-02-21 12:30:59,237 - sauce_connect:364 - INFO - Succesfully connected to local server 127.0.0.1:61050 in 6ms
+2014-02-21 12:30:59,766 - sauce_connect:195 - INFO - Shutting down other tunnel remote VMs using requested domains
+2014-02-21 12:30:59,770 - sauce_connect:199 - DEBUG - Shutting down old tunnel remote VM: aa56c18e0a814827b03479f6022a0c6a
+2014-02-21 12:31:01,717 - sauce_connect:229 - INFO - {"squid_config":null,"use_caching_proxy":true,"metadata":{"PythonVersion":"2.5.1","OwnerHost":"127.0.0.1","Release":"3.0-r24","OwnerPorts":["61050"],"Ports":["80"],"Platform":"Java-1.7.0_10-Java_HotSpot-TM-_64-Bit_Server_VM,_23.6-b04,_Oracle_Corporation-on-Windows_7-6.1-amd64","Build":"35","ScriptRelease":35,"ScriptName":"sauce_connect"},"use_kgp":true,"shared_tunnel":false,"fast_fail_regexps":null,"ssh_port":443,"direct_domains":null,"domain_names":["sauce-connect.proxy"]}
+2014-02-21 12:31:05,144 - sauce_connect:241 - INFO - Tunnel remote VM is provisioned (8e6aaedb0b7149b8a684cff083e57ae4)
+2014-02-21 12:31:05,388 - sauce_connect:257 - INFO - Tunnel remote VM is booting ..
+2014-02-21 12:31:28,489 - sauce_connect:261 - INFO - Tunnel remote VM is running at maki76149.miso.saucelabs.com
+2014-02-21 12:31:28,513 - sauce_connect:364 - INFO - Succesfully connected to local server 127.0.0.1:61050 in 1ms
+2014-02-21 12:31:28,517 - sauce_connect:626 - INFO - Starting connection to tunnel host...
+2014-02-21 12:31:28,520 - sauce_connect:626 - INFO - Connecting to tunnel host maki76149.miso.saucelabs.com as dramer
+2014-02-21 12:31:28,750 - sauce_connect:626 - INFO - Forwarding Selenium with ephemeral port 61085
+2014-02-21 12:31:28,756 - sauce_connect:626 - INFO - Selenium HTTP proxy listening on port 4445
+2014-02-21 12:31:28,921 - sauce_connect:0 - INFO - Successful handshake with Sauce Connect server
+2014-02-21 12:31:28,946 - sauce_connect:0 - INFO - Tunnel host version: 0.1.0, remote endpoint ID: 2b48311444fa47868bedf54fbcce24c7
+2014-02-21 12:31:28,950 - sauce_connect:626 - INFO - Connected! You may start your tests.
+2014-02-21 12:31:46,980 - sauce_connect:0 - INFO - GET https://www.yahoo.com/ -> 200 (1157ms)
+2014-02-21 12:31:47,345 - sauce_connect:0 - INFO - GET https://s.yimg.com/cv/ae/us/audience/140201/120x45uc9mmkola.jpg -> 200 (515ms)
+2014-02-21 12:31:47,555 - sauce_connect:0 - INFO - GET https://s.yimg.com/zz/combo?nn/lib/metro/g/ui/base_0.0.10.css&nn/lib/metro/g/ui/helpers_0.0.8.css&nn/lib/metro/g/ui/typography_0.0.3.css&nn/lib/metro/g/theme/default/common_0.0.36.css&nn/lib/metro/g/theme/default/desktop_0.0.100.css&nn/lib/metro/g/theme/hr_blue_0.0.16.css&nn/lib/metro/g/uiplugins/lazy_image_0.0.5.css&nn/lib/metro/g/uiplugins/modal_service_0.0.3.css&nn/lib/metro/g/uiplugins/tooltip_service_1.0.13.css&nn/lib/metro/g/uiplugins/iframeshim_service_0.0.12.css&nn/lib/metro/g/uiplugins/menu_service_0.1.13.css&nn/lib/metro/g/uiplugins/tablite_service_desktop_0.0.15.css&nn/lib/metro/g/uicontrib/ld_renderer_0.0.11.css&nn/lib/metro/g/uiplugins/tablist_service_0.1.15.css&nn/lib/metro/g/uiplugins/tablist_default_0.1.17.css&nn/lib/metro/g/uiplugins/tablist_service_vertical_0.0.2.css&nn/lib/metro/g/uiplugins/carousel_service_0.1.20.css -> 200 (796ms)
+2014-02-21 12:31:47,540 - sauce_connect:0 - INFO - GET https://s.yimg.com/rz/l/favicon.ico -> 200 (702ms)
+2014-02-21 12:31:47,582 - sauce_connect:0 - INFO - GET https://s.yimg.com/zz/combo?nn/lib/metro/g/breakingnews/breakingnews_0.0.52.css -> 200 (746ms)
+2014-02-21 12:31:47,700 - sauce_connect:0 - INFO - GET https://s.yimg.com/zz/combo?cv/eng/externals/yfpad/combo/140131/a/yfpadobject.js&cv/eng/externals/yfpad/combo/140131/a/yfpad_useragent.js&cv/eng/externals/yfpad/combo/140131/a/yfpad_util.js&cv/eng/externals/yfpad/combo/140131/a/yfpad_flash.js&cv/eng/externals/yfpad/combo/140131/a/yfpad_json.js&cv/eng/externals/yfpad/combo/140131/a/yfpad_cookie.js -> 200 (714ms)
+2014-02-21 12:31:47,694 - sauce_connect:0 - INFO - GET https://s.yimg.com/zz/combo?nn/lib/metro/g/fp/fp_500_0.0.122.css&nn/lib/metro/g/universalheader/universalheader_0.0.36.css&nn/lib/metro/g/intlselectorfull/intlselectorfull_0.0.14.css&nn/lib/metro/g/tabbar/tabbar_0.0.131.css&nn/lib/metro/g/uiplugins/login_service_0.0.4.css&nn/lib/metro/g/login/login_0.0.74.css&nn/lib/metro/g/mail/mail_0.0.57.css&nn/lib/metro/g/mail/mail_403_0.0.56.css&nn/lib/metro/g/windowshade/windowshade_0.0.11.css&nn/lib/metro/g/navrail/navrail_0.0.106.css&nn/lib/metro/g/sda/sda_0.1.49.css&nn/lib/metro/g/adsfallback/adsfallback_0.0.51.css&nn/lib/metro/g/trendingnow/trendingnow_0.0.40.css&nn/lib/metro/g/appscontainer/appscontainer_base_0.0.7.css&nn/lib/metro/g/appscontainer/appscontainer_desktop_0.0.56.css&nn/lib/metro/g/topheadlines/topheadlines_0.0.16.css&nn/lib/metro/g/weather/weather_0.1.52.css&nn/lib/metro/g/location/location_0.0.20.css&nn/lib/metro/g/finance/finance_base_0.0.7.css&nn/lib/metro/g/finance/finance_0.1.140.css&nn/lib/metro/g/sportacular/sportacular_0.0.48.css&nn/lib/metro/g/flickr/flickr_0.0.19.css&nn/lib/metro/g/topvideos/topvideos_base_0.0.10.css&nn/lib/metro/g/topvideos/topvideos_0.0.25.css&nn/lib/metro/g/birthday/birthday_0.0.23.css&nn/lib/metro/g/horoscope/horoscope_base_0.0.5.css&nn/lib/metro/g/horoscope/horoscope_0.1.90.css&nn/lib/metro/g/comics/comics_0.0.19.css&nn/lib/metro/g/footer/subfooter_0.0.36.css&nn/lib/metro/g/sportsevents/sportsevents_0.0.20.css&nn/lib/metro/g/sportsevents/sportsevents_desktop_0.0.6.css&nn/lib/metro/g/todaycontainer/todaycontainer_0.0.11.css&nn/lib/metro/g/fptoday/fptoday_flex_0.1.85.css&nn/lib/metro/g/offlead/offlead_0.0.28.css&nn/lib/metro/g/fstream/fstream_desktop_0.0.29.css&nn/lib/metro/g/stream/stream_0.0.301.css&nn/lib/metro/g/stream/rmx_ads_0.0.10.css&nn/lib/metro/g/stream/stream_tweets_0.0.31.css&nn/lib/metro/g/stream/stream_action_drawer_desktop_0.0.21.css&nn/lib/metro/g/masthead/masthead_homerun_0.0.47.css&nn/lib/metro/g/masthead/masthead_sayt_0.0.2.css -> 200 (913ms)
+2014-02-21 12:31:47,845 - sauce_connect:0 - INFO - GET https://s1.yimg.com/kx/yucs/uh3/uh/js/47/ai.min.js -> 200 (594ms)
+2014-02-21 12:31:48,002 - sauce_connect:0 - INFO - GET https://s.yimg.com/zz/combo?nn/lib/metro/g/yui/yui-base_3.8.3.js -> 200 (151ms)
+2014-02-21 12:31:48,174 - sauce_connect:0 - INFO - GET https://s.yimg.com/os/mit/media/m/base/images/transparent-1093278.png -> 200 (132ms)
+2014-02-21 12:31:48,224 - sauce_connect:0 - INFO - GET https://s3.yimg.com/lo/api/res/1.2/oDPYiso8KKz5GS6VGuoC6g--/YXBwaWQ9eWhvbWVydW4-/http://media.zenfs.com/en_us/News/ucomics.com/dt140212.gif -> 200 (841ms)
+2014-02-21 12:31:48,280 - sauce_connect:0 - INFO - GET https://s3.yimg.com/os/mit/media/m/sports/images/flags/82X82/rus-1685486.png -> 200 (542ms)
+2014-02-21 12:31:48,292 - sauce_connect:0 - INFO - GET https://s2.yimg.com/os/mit/media/m/sports/images/flags/82X82/can-1685486.png -> 200 (551ms)
+2014-02-21 12:31:48,344 - sauce_connect:0 - INFO - GET https://s2.yimg.com/nn/fp/rsz/022114/images/smush/middleton-ipad_120x48_1393002258.jpg -> 200 (591ms)
+2014-02-21 12:31:48,453 - sauce_connect:0 - INFO - GET https://s2.yimg.com/nn/fp/rsz/022114/images/smush/shiff_120x48_1393003118.jpg -> 200 (702ms)
+2014-02-21 12:31:48,470 - sauce_connect:0 - INFO - GET https://s1.yimg.com/os/mit/media/m/sports/images/flags/82X82/usa-1685486.png -> 200 (699ms)
+2014-02-21 12:31:48,479 - sauce_connect:0 - INFO - GET https://s3.yimg.com/lo/api/res/1.2/9zr9GZGybKjGsb4IIV_YDg--/YXBwaWQ9eWhvbWVydW4-/http://media.zenfs.com/en_us/News/ucomics.com/dt140215.gif -> 200 (748ms)
+2014-02-21 12:31:48,502 - sauce_connect:0 - INFO - GET https://s3.yimg.com/lo/api/res/1.2/cDq9JbFSYA7hNmPM6DzvvQ--/YXBwaWQ9eWhvbWVydW4-/http://media.zenfs.com/en_us/News/ucomics.com/dt140217.gif -> 200 (773ms)
+2014-02-21 12:31:48,563 - sauce_connect:0 - INFO - GET https://s2.yimg.com/lo/api/res/1.2/CtdTrwzlERWFZ2jzSZX4Hw--/YXBwaWQ9eWhvbWVydW4-/http://media.zenfs.com/en_us/News/ucomics.com/dt140221.gif -> 200 (806ms)
+2014-02-21 12:31:48,585 - sauce_connect:0 - INFO - GET https://s2.yimg.com/lo/api/res/1.2/L97o4M1B7rkmvsvi1nL.iw--/YXBwaWQ9eWhvbWVydW4-/http://media.zenfs.com/en_us/News/ucomics.com/dt140213.gif -> 200 (1023ms)
+2014-02-21 12:31:48,605 - sauce_connect:0 - INFO - GET https://s1.yimg.com/lo/api/res/1.2/tmfy0lvYto1xsT9lhTNLjg--/YXBwaWQ9eWhvbWVydW4-/http://media.zenfs.com/en_us/News/ucomics.com/dt140218.gif -> 200 (835ms)
+2014-02-21 12:31:48,635 - sauce_connect:0 - INFO - GET https://s3.yimg.com/lo/api/res/1.2/PVUZw3JS70DuyocT8PZkvA--/YXBwaWQ9eWhvbWVydW4-/http://media.zenfs.com/en_us/News/ucomics.com/dt140220.gif -> 200 (872ms)
+2014-02-21 12:31:48,690 - sauce_connect:0 - INFO - GET https://s3.yimg.com/lo/api/res/1.2/lqfrLFfENgDCmjLNEtCNWA--/YXBwaWQ9eWhvbWVydW4-/http://media.zenfs.com/en_us/News/ucomics.com/dt140216.jpg -> 200 (953ms)
+2014-02-21 12:31:48,713 - sauce_connect:0 - INFO - GET https://s1.yimg.com/lo/api/res/1.2/Uoyqe6ZSL7ZRBb2BBJOkyg--/YXBwaWQ9eWhvbWVydW4-/http://media.zenfs.com/en_us/News/ucomics.com/dt140214.gif -> 200 (951ms)
+2014-02-21 12:31:48,740 - sauce_connect:0 - INFO - GET https://s1.yimg.com/nn/fp/rsz/022114/images/smush/hock8_635x250_1393011437.jpg -> 200 (968ms)
+2014-02-21 12:31:48,773 - sauce_connect:0 - INFO - GET https://s1.yimg.com/lo/api/res/1.2/RJBMjX3vL2XHpVmBxMEL4Q--/YXBwaWQ9eWhvbWVydW4-/http://media.zenfs.com/en_us/News/ucomics.com/dt140219.gif -> 200 (1024ms)
+2014-02-21 12:31:48,790 - sauce_connect:0 - INFO - GET https://s2.yimg.com/nn/fp/rsz/022114/images/smush/hock8_120x48_1393011437.jpg -> 200 (725ms)
+2014-02-21 12:31:48,894 - sauce_connect:0 - INFO - GET https://s.yimg.com/rz/l/yahoo_en-US_f_p_142x37.png -> 200 (131ms)
+2014-02-21 12:31:48,957 - sauce_connect:0 - INFO - GET https://s1.yimg.com/nn/fp/rsz/022114/images/smush/roadsideEDIT_120x48_1392997456.jpg -> 200 (127ms)
+2014-02-21 12:31:48,996 - sauce_connect:0 - INFO - GET https://s.yimg.com/dh/ap/default/131222/pc_flags_sprite_1222_Regular_12am.png -> 200 (219ms)
+2014-02-21 12:31:49,095 - sauce_connect:0 - INFO - GET https://s.yimg.com/dh/ap/default/140122/pc_icons_btns_sprite_0122_1215pm.png -> 200 (312ms)
+2014-02-21 12:31:49,246 - sauce_connect:0 - INFO - GET https://s.yimg.com/dh/ap/default/130122/finance_icons_sprite2_01.png -> 200 (117ms)
+2014-02-21 12:31:49,285 - sauce_connect:0 - INFO - GET https://s.yimg.com/dh/ap/default/130118/video_15x11.png -> 200 (148ms)
+2014-02-21 12:31:49,352 - sauce_connect:0 - INFO - GET https://s.yimg.com/lq/lib/3pm/cs_0.2.js -> 200 (127ms)
+2014-02-21 12:31:49,493 - sauce_connect:0 - INFO - GET https://s3.yimg.com/nn/fp/rsz/022114/images/smush/kievEDIT_120x48_1392994223.jpg -> 200 (96ms)
+2014-02-21 12:31:49,673 - sauce_connect:0 - INFO - GET https://s3.yimg.com/os/publish-images/sports/2014-02-21/00833e60-9b35-11e3-86ab-4964ffbc529a_jokes.jpg -> 200 (188ms)
+2014-02-21 12:31:49,769 - sauce_connect:0 - INFO - GET https://s2.yimg.com/os/publish-images/sports/2014-02-21/a077e950-9b32-11e3-b267-a16318ae6032_man.jpg -> 200 (178ms)
+2014-02-21 12:31:49,793 - sauce_connect:0 - INFO - GET https://ci.beap.ad.yieldmanager.net/reg_ci?bv=1.0.0&bs=(144dh0ldp(gid$iQh9NjIwNi4QO1NnN33kVQxuNzQuNFMHt7IAAAAA,si$4452051,sp$2023538075,bi$2025394051,cr$3941682051,cpcv$0,v$2.0,st$1393014706546197))&al=(as$11vklgksh,aid$OhZ9pGKLc2c-,ct$25,id(seq$500,label$init_north_open,type$click,time$0.21377851665982583)) -> 200 (659ms)
+2014-02-21 12:31:49,802 - sauce_connect:0 - INFO - GET https://csc.beap.bc.yahoo.com/yi?bv=1.0.0&bs=(136f80a76(gid$iQh9NjIwNi4QO1NnN33kVQxuNzQuNFMHt7IAAAAA,st$1393014706546197,si$4452051,sp$2023538075,pv$1,v$2.0))&t=J_3-D_3&al=(as$12rbu5g7i,aid$7vd.pGKLc2c-,bi$2059128551,cr$3951486051,ct$25,at$H,eob$gd1_match_id=-1:ypos=TL1)(as$12rf3lcam,aid$OhZ9pGKLc2c-,bi$2025394051,cr$3941682051,ct$25,at$H,eob$gd1_match_id=-1:ypos=FPAD)(as$125e41d68,aid$p459pGKLc2c-,cr$-1,ct$25,at$H,eob$gd1_match_id=-1:ypos=HDLN2)&s=0&r=0.10904584885055824 -> 200 (515ms)
+2014-02-21 12:31:49,834 - sauce_connect:0 - INFO - GET https://s2.yimg.com/os/publish-images/sports/2014-02-21/16c89100-9b32-11e3-8510-b124cb872900_stars.jpg -> 200 (240ms)
+2014-02-21 12:31:49,901 - sauce_connect:0 - INFO - GET https://s2.yimg.com/os/publish-images/sports/2014-02-21/c03e13e0-9aec-11e3-b8ff-a39fd05dcf6d_chu.jpg -> 200 (102ms)
+2014-02-21 12:31:50,010 - sauce_connect:0 - INFO - GET https://s1.yimg.com/rz/l/ai_large_purple.json?format=json&callback=Aniden.showJson -> 200 (93ms)
+2014-02-21 12:31:50,266 - sauce_connect:0 - INFO - GET https://s3.yimg.com/os/publish-images/sports/2014-02-21/d60b8620-9ae3-11e3-b784-6bba7d022da4_germans.jpg -> 200 (94ms)
+2014-02-21 12:31:50,584 - sauce_connect:0 - INFO - GET https://s3.yimg.com/os/publish-images/sports/2014-02-21/7d84fc60-9b16-11e3-9413-3112174862f3_ukraine.jpg -> 200 (78ms)
+2014-02-21 12:31:51,220 - sauce_connect:0 - INFO - GET https://s2.yimg.com/os/publish-images/sports/2014-02-21/dc783310-9b0a-11e3-a54c-5706eac8f56f_lauer.jpg -> 200 (130ms)
+2014-02-21 12:31:51,612 - sauce_connect:0 - INFO - GET https://s1.yimg.com/ts/api/res/1.2/ebcAe9trwgTMCJlHtMU38Q--/YXBwaWQ9eWhvbWVydW47cT04NTtzbT0xO3c9MTU4O2g9Njg-/http://l.yimg.com/os/publish-images/sports/2014-02-21/0dfa2680-9b30-11e3-9396-c95bc2eb2f8c_skate.jpg -> 200 (85ms)
+2014-02-21 12:31:52,000 - sauce_connect:0 - INFO - GET https://s3.yimg.com/os/publish-images/sports/2014-02-21/825cc860-9b04-11e3-8e63-757296d1571f_sweden.jpg -> 200 (159ms)
+2014-02-21 12:31:52,411 - sauce_connect:0 - INFO - GET https://s3.yimg.com/os/publish-images/sports/2014-02-21/d6c248a0-9b07-11e3-85d3-1fcb9f81c88f_chamoun.jpg -> 200 (117ms)
+2014-02-21 12:31:53,141 - sauce_connect:0 - INFO - GET https://s1.yimg.com/os/publish-images/sports/2014-02-21/f08a99f0-9b24-11e3-8328-9547e64df08b_fire.jpg -> 200 (428ms)
+2014-02-21 12:31:53,292 - sauce_connect:0 - INFO - GET https://s1.yimg.com/os/publish-images/sports/2014-02-21/d937a050-9b05-11e3-b692-3d7a5ca99c0e_us_women.jpg -> 200 (142ms)
+2014-02-21 12:31:53,786 - sauce_connect:0 - INFO - GET https://s.yimg.com/zz/combo?nn/lib/metro/g/uicontrib/rapid_v3_new_3.11.1.js&nn/lib/metro/g/yui/oop_3.8.2.js&nn/lib/metro/g/yui/event-custom-base_3.8.2.js&nn/lib/metro/g/yui/event-base_3.8.2.js&nn/lib/metro/g/yui/io-base_3.8.2.js&nn/lib/metro/g/yui/json-parse_3.8.2.js&nn/lib/metro/g/yui/json-stringify_3.8.2.js&nn/lib/metro/g/yui/cookie_3.8.2.js&nn/lib/metro/g/yui/dom-core_3.8.2.js&nn/lib/metro/g/yui/dom-base_3.8.2.js&nn/lib/metro/g/yui/dom-style_3.8.2.js&nn/lib/metro/g/yui/dom-screen_3.8.2.js&nn/lib/metro/g/yui/selector-native_3.8.2.js&nn/lib/metro/g/yui/selector_3.8.2.js&nn/lib/metro/g/yui/node-core_3.8.2.js&nn/lib/metro/g/yui/node-base_3.8.2.js&nn/lib/metro/g/yui/event-delegate_3.8.2.js&nn/lib/metro/g/yui/node-event-delegate_3.8.2.js&nn/lib/metro/g/yui/pluginhost-base_3.8.2.js&nn/lib/metro/g/yui/pluginhost-config_3.8.2.js&nn/lib/metro/g/yui/node-pluginhost_3.8.2.js&nn/lib/metro/g/yui/node-screen_3.8.2.js&nn/lib/metro/g/yui/node-style_3.8.2.js&nn/lib/metro/g/yui/event-custom-complex_3.8.2.js&nn/lib/metro/g/yui/event-synthetic_3.8.2.js&nn/lib/metro/g/yui/event-focus_3.8.2.js&nn/lib/metro/g/yui/transition_3.8.3.js&nn/lib/metro/g/yui/jsonp_3.8.2.js&nn/lib/metro/g/yui/jsonp-url_3.8.2.js&nn/lib/metro/g/yui/loader-base_3.8.2.js&nn/lib/metro/g/yui/loader-yui3_3.8.2.js&nn/lib/metro/g/yui/node-deprecated_3.8.2.js&nn/lib/metro/g/yui/gallery-storage-lite_3.8.2.js&nn/lib/metro/g/yui/selector-css2_3.8.2.js&nn/lib/metro/g/yui/selector-css3_3.8.2.js&nn/lib/metro/g/yui/substitute_3.8.2.js&nn/lib/metro/g/uicontrib/dali/module_platform_1.1.16.js&nn/lib/metro/g/uicontrib/dali/resourcemgr_1.1.16.js&nn/lib/metro/g/uicontrib/dali/dali_transport_1.1.35.js&nn/lib/metro/g/uicontrib/dali/metro_dali_1.0.28.js&nn/lib/metro/g/uicontrib/dali/module_api_1.1.17.js&nn/lib/metro/g/uicontrib/dali/yui_service_0.1.19.js -> 200 (480ms)
+2014-02-21 12:31:53,834 - sauce_connect:0 - INFO - GET https://s.yimg.com/dh/ap/default/130625/pc_icons_video_sprite_0624_9pm.png -> 200 (166ms)
+2014-02-21 12:31:54,174 - sauce_connect:0 - INFO - GET https://s.yimg.com/dh/ap/hp/olympics2014/olympics-logo-1x-v2.png -> 200 (171ms)
+2014-02-21 12:31:54,197 - sauce_connect:0 - INFO - GET https://s.yimg.com/dh/ap/hp/olympics2014/olympics-logotype-1x-v2.png -> 200 (172ms)
+2014-02-21 12:31:54,292 - sauce_connect:0 - INFO - GET https://s.yimg.com/dh/ap/default/140203/olympics-NBC-1x.png -> 200 (140ms)
+2014-02-21 12:31:54,884 - sauce_connect:0 - INFO - GET https://sb.scorecardresearch.com/p?c1=2&c2=7241469&c4=https%253A%252F%252Fwww.yahoo.com&c5=2023538075&ns__t=1393014714452&ns_c=UTF-8 -> 302 (728ms)
+2014-02-21 12:31:55,466 - sauce_connect:0 - INFO - GET https://s1.yimg.com/rz/l/logo_curling_large_purple.png -> 200 (114ms)
+2014-02-21 12:31:57,035 - sauce_connect:0 - INFO - GET https://sb.scorecardresearch.com/p2?c1=2&c2=7241469&c4=https%253A%252F%252Fwww.yahoo.com&c5=2023538075&ns__t=1393014714452&ns_c=UTF-8 -> 200 (106ms)
+2014-02-21 12:31:57,038 - sauce_connect:0 - INFO - GET https://s.yimg.com/zz/combo?nn/lib/metro/g/uiplugins/metro_viewtype_0.1.25.js&nn/lib/metro/g/uiplugins/default_viewtype_0.1.63.js&nn/lib/metro/g/uiplugins/edit_viewtype_0.1.42.js&nn/lib/metro/g/uicontrib/ylc_1.8.23.js&nn/lib/metro/g/uiplugins/instrumentation_service_0.1.105.js&nn/lib/metro/g/uiplugins/metrologger_service_0.1.20.js&nn/lib/metro/g/uiplugins/autohide_service_0.1.17.js&nn/lib/metro/g/uiplugins/sethomepage_service_0.0.34.js&nn/lib/metro/g/uiplugins/lazy_image_0.0.11.js&nn/lib/metro/g/uiplugins/sticky_position_service_0.0.14.js&nn/lib/metro/g/uiplugins/userinfo_service_0.1.17.js&nn/lib/metro/g/uiplugins/statemgr_service_0.1.21.js&nn/lib/metro/g/uiplugins/modal_service_0.0.5.js&nn/lib/metro/g/uiplugins/tooltip_service_0.1.57.js&nn/lib/metro/g/uiplugins/aria_service_0.1.19.js&nn/lib/metro/g/uiplugins/iframeshim_service_0.0.20.js&nn/lib/metro/g/uiplugins/menu_service_0.1.22.js&nn/lib/metro/g/uiplugins/arcade_transport_1.0.16.js&nn/lib/metro/g/uiplugins/tablite_service_0.0.11.js&nn/lib/metro/g/uicontrib/base64_0.0.3.js&nn/lib/metro/g/uicontrib/ld_geo_0.0.3.js&nn/lib/metro/g/uicontrib/ld_geocoder_0.0.5.js&nn/lib/metro/g/uicontrib/ld_autosuggest_0.0.8.js&nn/lib/metro/g/uicontrib/ld_yql_0.0.13.js&nn/lib/metro/g/uicontrib/ld_core_0.0.3.js&nn/lib/metro/g/uicontrib/ld_widget_0.0.20.js&nn/lib/metro/g/uicontrib/ld_renderer_0.0.3.js&nn/lib/metro/g/uiplugins/ld_service_0.0.4.js&nn/lib/metro/g/uiplugins/location_service_0.0.12.js&nn/lib/metro/g/uiplugins/tablist_service_0.1.45.js&nn/lib/metro/g/uiplugins/carousel_service_0.1.62.js&nn/lib/metro/g/uicontrib/cms_logo_0.1.9.js -> 200 (110ms)
+2014-02-21 12:31:57,710 - sauce_connect:0 - INFO - GET https://s.yimg.com/zz/combo?nn/lib/metro/g/sda/sda_bridge_service_0.0.14.js&nn/lib/metro/g/fp/fp_0.1.158.js&nn/lib/metro/g/universalheader/universalheader_0.0.22.js&nn/lib/metro/g/intlselectorfull/intlselectorfull_0.0.15.js&nn/lib/metro/g/tabbar/tabbar_0.0.38.js&nn/lib/metro/g/uiplugins/transport_helper_service_0.0.4.js&nn/lib/metro/g/uiplugins/login_service_0.0.48.js&nn/lib/metro/g/tuc/tuc_0.0.66.js&nn/lib/metro/g/login/login_0.0.37.js&nn/lib/metro/g/mail/mail_0.0.48.js&nn/lib/metro/g/windowshade/windowshade_0.0.15.js&nn/lib/metro/g/navrail/navrail_0.0.74.js&nn/lib/metro/g/sda/sda_0.1.49.js&nn/lib/metro/g/adsfallback/adsfallback_0.0.38.js&nn/lib/metro/g/appscontainer/appscontainer_0.0.35.js&nn/lib/metro/g/topheadlines/topheadlines_0.0.14.js&nn/lib/metro/g/weather/weather_0.1.35.js&nn/lib/metro/g/finance/finance_0.1.136.js&nn/lib/metro/g/sportacular/sportacular_0.0.39.js&nn/lib/metro/g/flickr/flickr_0.0.15.js&nn/lib/metro/g/topvideos/topvideos_0.0.16.js&nn/lib/metro/g/birthday/birthday_0.0.14.js&nn/lib/metro/g/horoscope/horoscope_0.1.51.js&nn/lib/metro/g/comics/comics_0.0.23.js&nn/lib/metro/g/sportsevents/sportsevents_0.0.16.js&nn/lib/metro/g/todaycontainer/todaycontainer_0.0.13.js&nn/lib/metro/g/fptoday/fptoday_hover_1.5.44.js&nn/lib/metro/g/offlead/offlead_0.0.31.js&nn/lib/metro/g/uiplugins/storage_service_0.0.2.js&nn/lib/metro/g/fstream/fstream_0.0.114.js&nn/lib/metro/g/stream/stream_0.0.519.js&nn/lib/metro/g/uiplugins/interests_service_0.1.2.js&nn/lib/metro/g/stream/stream_action_drawer_0.0.45.js&nn/lib/metro/g/masthead/masthead_0.2.297.js -> 200 (262ms)
+2014-02-21 12:31:58,529 - sauce_connect:0 - INFO - GET https://s1.yimg.com/ts/api/res/1.2/U5x8pYN6_1TpNrL3OtDN8w--/YXBwaWQ9eWhvbWVydW47cT04NTtzbT0xO3c9NTA7aD01MA--/http://l.yimg.com/a/i/us/sp/v/nba/teams/1/50x50w/orl3.gif -> 200 (38ms)
+2014-02-21 12:31:58,624 - sauce_connect:0 - INFO - GET https://s.yimg.com/lq/i/ww/met/anim_loading_sm_082208.gif -> 200 (22ms)
+2014-02-21 12:31:58,630 - sauce_connect:0 - INFO - GET https://s3.yimg.com/ts/api/res/1.2/iAhLDxTmdntApnTvPZ8IRg--/YXBwaWQ9eWhvbWVydW47cT04NTtzbT0xO3c9NTA7aD01MA--/http://l.yimg.com/j/assets/ipt/50x50w.7.gif -> 200 (139ms)
+2014-02-21 12:31:58,635 - sauce_connect:0 - INFO - GET https://s1.yimg.com/ts/api/res/1.2/CDpILjyZhn4oGpsh06iZWQ--/YXBwaWQ9eWhvbWVydW47cT04NTtzbT0xO3c9NTA7aD01MA--/http://l.yimg.com/j/assets/ipt/cha-1.gif -> 200 (145ms)
+2014-02-21 12:31:58,641 - sauce_connect:0 - INFO - GET https://s1.yimg.com/ts/api/res/1.2/7HIixcC3G2.yXg6jQ6KoqQ--/YXBwaWQ9eWhvbWVydW47cT04NTtzbT0xO3c9NTA7aD01MA--/http://l.yimg.com/a/i/us/sp/v/nba/teams/1/50x50w/kni_w.jpg -> 200 (150ms)
+2014-02-21 12:31:58,651 - sauce_connect:0 - INFO - GET https://s.yimg.com/dh/ap/default/121010/finance_icons_sprite.png -> 200 (37ms)
+2014-02-21 12:31:58,944 - sauce_connect:0 - INFO - GET https://www.yahoo.com/v1/public/yql?q=select%20*%20from%20user.location.public%20where%20ctx%3D%22*%22%20and%20type%3D%22*%22%20and%20crumb%3D%22null%22%20and%20locale%3D%22en_US%22&format=json&callback=YUI.Env.JSONP.yui_3_8_1_1_1393014709438_355 -> 200 (343ms)
+2014-02-21 12:31:58,984 - sauce_connect:0 - INFO - GET https://s.yimg.com/lq/lib/can_interstitial/icons/adchoice_1.4.png -> 200 (19ms)
+2014-02-21 12:31:59,040 - sauce_connect:0 - INFO - GET https://s.yimg.com/cv/eng/yahoo/120419/billboard_sprite.gif -> 200 (75ms)
+2014-02-21 12:31:59,111 - sauce_connect:0 - INFO - GET https://www.yahoo.com/hjs?&__r=1393014719132&post=%7B%22reqs%22%3A%5B%7B%22handler%22%3A%22cfg.maple_dali.handler.refresh%22%2C%22data%22%3A%7B%22maple%22%3A%7B%22module%22%3A%22p_30345826%22%2C%22ba%22%3A%7B%22_txnid%22%3A0%2C%22_mode%22%3A%22json%22%2C%22_id%22%3A%22p_30345826%22%2C%22_container%22%3A0%2C%22_action%22%3A%22show%22%2C%22_subAction%22%3A%22getButtons%22%2C%22noups%22%3A1%2C%22sec%22%3A%22td-strm-dr%22%2C%22layout%22%3A%22horizontal%22%2C%22title%22%3A%22Sign-in%20and%20we%27ll%20show%20you%20more%20like%20this%20in%20the%20future.%22%2C%22narrow%22%3A1%7D%7D%7D%2C%22txId%22%3A1%7D%5D%2C%22props%22%3A%7B%22dali%22%3A%7B%22crumb%22%3A%22HGovnOHk6Lh%22%2C%22yuid%22%3A%22%22%2C%22loggedIn%22%3A%220%22%2C%22mLogin%22%3A0%7D%7D%7D -> 200 (144ms)
+2014-02-21 12:31:59,236 - sauce_connect:0 - INFO - GET https://s.yimg.com/rl/ulw/img/ulw_sprite.gif -> 200 (187ms)
+2014-02-21 12:31:59,247 - sauce_connect:0 - INFO - GET https://s.yimg.com/cv/eng/procter_gamble/140221/a/970x250.swf -> 200 (283ms)
+2014-02-21 12:31:59,558 - sauce_connect:0 - INFO - GET https://ad.doubleclick.net/ad/N5315.1509.4331574366321/B7983617.7;sz=1x1;ord=1393014706.575835? -> 302 (577ms)
+2014-02-21 12:31:59,609 - sauce_connect:0 - INFO - GET https://www.yahoo.com/p.gif;_ylp=A86.IouytwdTT2cAHpqbvZx4?t=1393014719294&hpset=1 -> 204 (629ms)
+2014-02-21 12:31:59,717 - sauce_connect:0 - INFO - GET https://ad.doubleclick.net/ad/N5767.YAHOO/B7681820.49;sz=1x1;ord=1393014706.572807? -> 302 (666ms)
+2014-02-21 12:32:00,496 - sauce_connect:0 - INFO - GET https://sb.scorecardresearch.com/p?c1=3&c2=13241270&c3=7681820&c4=56741391&c5=105434983&c6=&c10=1&c11=775420&c12=&c13=1x1&c16=dfa&cj=1&ax_fwd=1&rn=6894343 -> 200 (23ms)
+2014-02-21 12:32:00,576 - sauce_connect:0 - INFO - GET https://static.doubleclick.net/viewad/1831140/2-DISH_1X1.png -> 200 (100ms)
