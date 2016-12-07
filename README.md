@@ -8,7 +8,7 @@ Download Bichromate Sample - This will give you the required folders Bichromate 
 Add dependencies from the POM that is attached
 Download Bichromate.jar
 
-extends sTestWebDriverFactory - to gain access in creating all the necesarry webdrivers. Extending sTestWebDriverFactory also gives you access to Bichromate's Factories. You must pass in the Bichromate properties file when extending and creating sTestWebDriverFactory.
+extends sTestWebDriverFactory - to gain access in creating all the necesarry webdrivers. Extending sTestWebDriverFactory also gives you access to Bichromate's Factories. You must pass in the Bichromate properties file when extending and creating sTestWebDriverFactory. For every new page object created (POM) add that into your webdriverFactory. Then during the execution of a test you simply access the page needed during the test (webdriver.getNewPage().isButtonEnabled())
 
 extend sTestBaseTestNGDeclaration  for every test you write. This gives you access to Extend reports, and Bichromate reports. Also handles test when they fail by taking screen shots of the failed.
 
