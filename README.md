@@ -16,13 +16,13 @@ Creating Page Object Models you extend sTestBasePageDeclaration - This gives you
 
 # Running tests within a CI environment. Billfire Automation takes in the following system parameters
 
--DBichromate.spreadsheet=stageTestSetup.xls
--DBichromate.worksheet= X
--DBichromate.table=x
--DBichromate.logFileIP=35.162.206.134
--DBichromate.dbServerName - server name to access the DataBase
--DBichromate.dbName - DB schema name
--Bichromate.sshServer - sshServer name
+* -DBichromate.spreadsheet=stageTestSetup.xls
+* -DBichromate.worksheet= X
+* -DBichromate.table=x
+* -DBichromate.logFileIP=35.162.206.134
+* -DBichromate.dbServerName - server name to access the DataBase
+* -DBichromate.dbName - DB schema name
+* -Bichromate.sshServer - sshServer name
 
 
 # Updates
