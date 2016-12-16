@@ -14,6 +14,17 @@ extend sTestBaseTestNGDeclaration  for every test you write. This gives you acce
 
 Creating Page Object Models you extend sTestBasePageDeclaration - This gives you all the methods for finding objects on the page.
 
+# Running tests within a CI environment. Billfire Automation takes in the following system parameters
+
+-DBichromate.spreadsheet=stageTestSetup.xls
+-DBichromate.worksheet= X
+-DBichromate.table=x
+-DBichromate.logFileIP=35.162.206.134
+-DBichromate.dbServerName - server name to access the DataBase
+-DBichromate.dbName - DB schema name
+-Bichromate.sshServer - sshServer name
+
+
 # Updates
 8/28/2016 initial version. Sample project coming soon.  Email DavidWRamer@yahoo.com for more information.
 
