@@ -14,7 +14,9 @@ extend sTestBaseTestNGDeclaration  for every test you write. This gives you acce
 
 Creating Page Object Models you extend sTestBasePageDeclaration - This gives you all the methods for finding objects on the page.
 
-# Running tests within a CI environment. Billfire Automation takes in the following system parameters
+#CI Environment Variables 
+
+Running tests within a CI environment. Billfire Automation takes in the following system parameters
 
 * -DBichromate.spreadsheet=stageTestSetup.xls
 * -DBichromate.worksheet= X
