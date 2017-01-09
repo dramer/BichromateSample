@@ -1,6 +1,9 @@
 # BichromateSample
 Bichromate project to flesh out individual projects.
 
+# Setting up TestNG with Eclipse
+http://howtodoinjava.com/testng/testng-tutorial-with-eclipse/
+
 # How to get started with Bichromate
 
 Create a Mavenized Eclipse TestNG project
