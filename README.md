@@ -34,3 +34,5 @@ Running tests within a CI environment. Billfire Automation takes in the followin
 8/28/2016 initial version. Sample project coming soon.  Email DavidWRamer@yahoo.com for more information.
 
 12/6/2016  Added supporting pom files, Directories, and Bichromate.jar
+
+1/9/2017  Added link to detail setting up Eclipse with TestNG
