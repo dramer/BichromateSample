@@ -31,6 +31,8 @@ Running tests within a CI environment. Billfire Automation takes in the followin
 
 
 # Updates
+7/11/2017  added bichromateJars folder. This contains the Bichromate jar files that need to be added to local mvn repo.
+
 8/28/2016 initial version. Sample project coming soon.  Email DavidWRamer@yahoo.com for more information.
 
 12/6/2016  Added supporting pom files, Directories, and Bichromate.jar
