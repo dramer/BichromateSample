@@ -56,7 +56,7 @@ This sectin outlines the tools that are provided with BichroMate
 
 * LogFileFactory - Tool to parse log files after the test has run. You can also use the U/I to parse log files
 
-![BichroMate Tools log file Factory](images/logFile.JPG)
+![BichroMate Tools log file Factory](images/logFactory.JPG)
 
 ## CI Integration
 
