@@ -54,6 +54,10 @@ This sectin outlines the tools that are provided with BichroMate
 
 ![BichroMate Tools cronJob](images/cronJob.JPG)
 
+* LogFileFactory - Tool to parse log files after the test has run. You can also use the U/I to parse log files
+
+![BichroMate Tools log file Factory](images/logFile.JPG)
+
 ## CI Integration
 
 Running tests within a CI environment. Bichromate has the following system variables that will override the property files defaults
