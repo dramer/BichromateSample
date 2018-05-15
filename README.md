@@ -1,25 +1,62 @@
-# BichromateSample
-Bichromate project to flesh out individual projects.
+﻿![BichroMate](images/Splash.png)
+# BichroMate
 
-# Setting up TestNG with Eclipse
-http://howtodoinjava.com/testng/testng-tutorial-with-eclipse/
+Gum bichromate is a 19th-century photographic printing process based on the light sensitivity of dichromates. It is capable of rendering painterly images from photographic negatives. Gum printing is traditionally a multi-layered printing process, but satisfactory results may be obtained from a single pass. Any color can be used for gum printing, so natural-color photographs are also possible by using this technique in layers.
 
-# How to get started with Bichromate
+## Created By
+David Ramer
 
-Create a Mavenized Eclipse TestNG project
-Download Bichromate Sample - This will give you the required folders Bichromate needs.
-Add dependencies from the POM that is attached
-Download Bichromate.jar
+8/9/2011
 
-extends sTestWebDriverFactory - to gain access in creating all the necesarry webdrivers. Extending sTestWebDriverFactory also gives you access to Bichromate's Factories. You must pass in the Bichromate properties file when extending and creating sTestWebDriverFactory. For every new page object created (POM) add that into your webdriverFactory. Then during the execution of a test you simply access the page needed during the test (webdriver.getNewPage().isButtonEnabled())
 
-extend sTestBaseTestNGDeclaration  for every test you write. This gives you access to Extend reports, and Bichromate reports. Also handles test when they fail by taking screen shots of the failed.
+## Description
+Like painting a picture, QA members want to create an automated testing environment that paints a picture of the stability of their product.  Bichromate uses the following tools: Java, Selenium, Appium, and TestNG to paint a testing framework that drives all automted testing. Page object model design and data driven tests are the concepts Bichromate incorporates to paint the product picture of quality.
 
-Creating Page Object Models you extend sTestBasePageDeclaration - This gives you all the methods for finding objects on the page.
+## Usage
 
-#CI Environment Variables 
+Create a new testNG project in Eclipse.
 
-Running tests within a CI environment. Billfire Automation takes in the following system parameters
+To access the webDrivers for local, proxy, SauceLabs, Browser Stack inherit from sTestWebDriverFactory
+
+To gain access to the data driven tests and auto setup tunnels to Saucelabs and BrowserStack integrate your test classes with a new inherited sTestWebDriverFactory (make a copy of sTestWebDriverFactory, integrate your sTestWebDriverFactory)
+
+To gain access to the base page object model design inherit sTestBasePageDeclaration
+
+There are three log file factories used in Bichromate
+
+POMLOGGER - used to capture any errors or messages in pages created for testing.
+
+testExecutionLogFactory - captures results of all tests run.  When the @afterSuite is run, this logger generates a history report found in reports\reports.html
+
+webDriverLogger - used to capture all usages of webDriver creation.
+
+## Framework
+BichroMate is built off the TestNG framework.
+
+* TestNG - http://testng.org/doc/
+
+![BichroMate TestNG](images/testng.JPG)
+
+## Reports
+BichroMate generates the standard TestNG Reports along with Extend Reports and the build in BichroMate Report that captures histor of all tests run.
+
+* First time the test was run
+* Last time the test failed
+* How many times has the test been run
+* % Pass rate
+
+![BichroMate Report](images/BichroMateReport.JPG)
+
+## Tools
+This sectin outlines the tools that are provided with BichroMate
+
+* CronJob - Built in cronjob lets you schedule jobs on your local machine before promoting the tests to a CI environment like Jenkins or Team City
+
+![BichroMate Tools cronJob](images/cronJob.JPG)
+
+## CI Integration
+
+Running tests within a CI environment. Bichromate has the following system variables that will override the property files defaults
 
 * -DBichromate.spreadsheet=stageTestSetup.xls
 * -DBichromate.worksheet= X
@@ -29,10 +66,27 @@ Running tests within a CI environment. Billfire Automation takes in the followin
 * -DBichromate.dbName - DB schema name
 * -Bichromate.sshServer - sshServer name
 
+## 3rd Party Integrations
+BichroMate integrates with SauceLabs, Browserstack, and the Selenium Grid. There is just one function call to create a webdrive that connects to these 3rd party integrations
 
-# Updates
-8/28/2016 initial version. Sample project coming soon.  Email DavidWRamer@yahoo.com for more information.
+* BrowserStack - https://www.browserstack.com/
 
-12/6/2016  Added supporting pom files, Directories, and Bichromate.jar
+![BichroMate Integrations browserStack](images/browserStack.JPG)
 
-1/9/2017  Added link to detail setting up Eclipse with TestNG
+* SauceLabs - https://saucelabs.com/
+
+![BichroMate Integrations sauceLabs](images/saucelabs.JPG)
+
+* Selenium Grid - https://www.seleniumhq.org/
+
+![BichroMate Integrations Selenium grid](images/Selenium-Grid.png)
+
+
+
+## Updates 
+
+
+
+
+2) In Appium version 1.6 to find app elements you need do something like:
+driver.findElementByXPath("//android.widget.Button[@text='+']").click();
