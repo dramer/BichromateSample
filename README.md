@@ -86,6 +86,11 @@ BichroMate integrates with SauceLabs, Browserstack, and the Selenium Grid. There
 ## Updates 
 
 
+# Updates
+7/11/2017  added bichromateJars folder. This contains the Bichromate jar files that need to be added to local mvn repo.
+
+8/28/2016 initial version. Sample project coming soon.  Email DavidWRamer@yahoo.com for more information.
+
 
 
 2) In Appium version 1.6 to find app elements you need do something like:
