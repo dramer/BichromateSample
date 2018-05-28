@@ -1,0 +1,23 @@
+/**
+	 * This function demonstrates <-FUNCTION NAME->(). <br>
+	 * Function to enter text into the usernameInput
+	 * 
+	 * @param text  text to be entered into the text field
+	 * @returns none.
+	 * @exception None.
+	 * @author Bichromate
+	 * @version 1.0
+	 */
+	public void <-FUNCTION NAME->(String text) {
+		try {
+			WebElement element = findElement(<-ELEMENT NAME->);
+			if(null != element){
+				element.clear();
+				element.sendKeys(text);
+			}else{
+				POMLOGGER.enterSevereLog("<-CLASS NAME-> : <-FUNCTION NAME-> element not found");
+			}
+		} catch (Exception e) {
+			POMLOGGER.enterSevereLog("<-CLASS NAME-> : <-FUNCTION NAME-> element not found");
+		}
+	}<-FUNCTION NAME->
