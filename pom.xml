@@ -31,6 +31,12 @@
 </repositories>	
 
   <dependencies>
+  	<!-- https://www.bichromate.org -->
+  	<dependency>
+    	<groupId>com.github.dramer</groupId>
+    	<artifactId>Bichromate</artifactId>
+    	<version>1.0.0</version>
+	</dependency>
   
   	<!-- https://mvnrepository.com/artifact/commons-net/commons-net -->
 			<dependency>

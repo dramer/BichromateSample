@@ -164,7 +164,7 @@ public class sampleTestNGDeclaration {
 			  //
 			  // Screen shot the error page
 			  //
-			  webDriver.getSTestScreenCaptureFactory().takeScreenShot(result.getInstanceName()+"-Failed-");
+			  webDriver.getSTestScreenCaptureFactory().takeWebScreenShot(result.getInstanceName()+"-Failed-");
 			     //
 			     // Send error to testNG Reporter
 			     //

@@ -82,7 +82,7 @@ public class sampleWebDriverFactory extends sTestWebDriverFactory{
 		// Closes all the page declarations
 		//
 		cleanWebDriver();
-		return (super.createWebDriver(remote, version, platform, browser,
+		return (super.createBrowserWebDriver(remote, version, platform, browser,
 				setupString));
 	}
 }

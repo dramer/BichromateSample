@@ -158,14 +158,14 @@ public class sampleTest  extends sampleTestNGDeclaration{
 	// Make sure we see the landing page
 	//
 	Reporter.log("yahoo is open and waiting for landing page");
-	webDriver.sTestWait(3000);
+	webDriver.sTestThreadWait(3000);
 	Reporter.log("Enter search Text for Red Sox");
 	webDriver.getSamplePageDeclaration().enterSearchTextBoxInfo("Red sox");
 	Reporter.log("Click search");
 	webDriver.getSamplePageDeclaration().clickSearchButton();
-	webDriver.sTestWait(3000);
+	webDriver.sTestThreadWait(3000);
 	Reporter.log("Searching....");
-	webDriver.sTestWait(3000);
+	webDriver.sTestThreadWait(3000);
 	Reporter.log("SampleTest passed");
 	 //
 	 // All Tests Passed
