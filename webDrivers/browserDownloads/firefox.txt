@@ -1,0 +1,1 @@
+# browserDownloads will be the directory where all files downloaded from a site will be stored.

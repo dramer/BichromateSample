@@ -1,0 +1,22 @@
+public class <-FILE NAME-> extends sTestBasePageDeclaration {
+
+	<-ELEMENTS->	
+
+	static ResourceBundle resources;
+	static {
+		try {
+			resources = ResourceBundle.getBundle("<PAGE DECLARATION DIRECTORY->.<-FILE NAME->", Locale.getDefault());
+		} catch (MissingResourceException mre) {
+			System.out.println("<-FILE NAME->.properties not found: " + mre);
+			System.exit(0);
+		}
+	}
+
+	public <-FILE NAME->(WebDriver driver) {
+
+		super(driver, resources);
+		pageTitle = new String(resources.getString("pageTitle"));
+		pageURL = new String(resources.getString("pageURL"));
+		POMLOGGER.enterInfoLog("<-FILE NAME-> created");
+
+	}
