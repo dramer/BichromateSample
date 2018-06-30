@@ -266,3 +266,283 @@ Jun 30, 2018 8:02:39 AM bichromate.core.webDriverLogFactory enterInfoLog
 INFO: XPO-77WHP72:192.168.56.1 webdrivers setup
 Jun 30, 2018 8:02:39 AM bichromate.core.webDriverLogFactory enterInfoLog
 INFO: XPO-77WHP72:192.168.56.1 sTestWebDriverFactory:buildNewFireFoxLocalDriver:Info:  Creating new driver
+Jun 30, 2018 6:50:35 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 logFileFactory created
+Jun 30, 2018 6:50:35 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestOSInformationFactory created
+Jun 30, 2018 6:50:35 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 scrollIntoViewFactory created
+Jun 30, 2018 6:50:35 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestHilitePageElementFactory created
+Jun 30, 2018 6:50:35 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestJiraFactory created
+Jun 30, 2018 6:50:35 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestScreenCaptureFactory created
+Jun 30, 2018 6:50:35 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestZipFileFactory created
+Jun 30, 2018 6:50:35 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestSlackFactory created
+Jun 30, 2018 6:50:35 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestHipChatFactory created
+Jun 30, 2018 6:50:35 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestFTPFactory created
+Jun 30, 2018 6:50:35 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestCustomerAccountManagerFactory created
+Jun 30, 2018 6:50:35 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestLogFileFactory created
+Jun 30, 2018 6:50:35 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestMySQLConnector created
+Jun 30, 2018 6:50:35 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestCleanupFactory created
+Jun 30, 2018 6:50:35 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestNewRelicFactory created
+Jun 30, 2018 6:50:35 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestKibanaFactory created
+Jun 30, 2018 6:50:35 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestTestDataStorage created
+Jun 30, 2018 6:50:35 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sauceConnectManager configured
+Jun 30, 2018 6:50:35 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 webdrivers setup
+Jun 30, 2018 6:50:36 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestWebDriverFactory:buildNewFireFoxLocalDriver:Info:  Creating new driver
+Jun 30, 2018 6:55:36 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 logFileFactory created
+Jun 30, 2018 6:55:36 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestOSInformationFactory created
+Jun 30, 2018 6:55:36 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 scrollIntoViewFactory created
+Jun 30, 2018 6:55:36 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestHilitePageElementFactory created
+Jun 30, 2018 6:55:36 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestJiraFactory created
+Jun 30, 2018 6:55:36 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestScreenCaptureFactory created
+Jun 30, 2018 6:55:36 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestZipFileFactory created
+Jun 30, 2018 6:55:36 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestSlackFactory created
+Jun 30, 2018 6:55:36 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestHipChatFactory created
+Jun 30, 2018 6:55:36 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestFTPFactory created
+Jun 30, 2018 6:55:36 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestCustomerAccountManagerFactory created
+Jun 30, 2018 6:55:36 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestLogFileFactory created
+Jun 30, 2018 6:55:36 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestMySQLConnector created
+Jun 30, 2018 6:55:36 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestCleanupFactory created
+Jun 30, 2018 6:55:36 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestNewRelicFactory created
+Jun 30, 2018 6:55:36 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestKibanaFactory created
+Jun 30, 2018 6:55:36 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestTestDataStorage created
+Jun 30, 2018 6:55:36 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sauceConnectManager configured
+Jun 30, 2018 6:55:36 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 webdrivers setup
+Jun 30, 2018 6:55:37 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestWebDriverFactory:buildNewFireFoxLocalDriver:Info:  Creating new driver
+Jun 30, 2018 6:57:25 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 logFileFactory created
+Jun 30, 2018 6:57:25 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestOSInformationFactory created
+Jun 30, 2018 6:57:25 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 scrollIntoViewFactory created
+Jun 30, 2018 6:57:25 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestHilitePageElementFactory created
+Jun 30, 2018 6:57:25 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestJiraFactory created
+Jun 30, 2018 6:57:25 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestScreenCaptureFactory created
+Jun 30, 2018 6:57:25 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestZipFileFactory created
+Jun 30, 2018 6:57:25 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestSlackFactory created
+Jun 30, 2018 6:57:25 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestHipChatFactory created
+Jun 30, 2018 6:57:25 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestFTPFactory created
+Jun 30, 2018 6:57:25 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestCustomerAccountManagerFactory created
+Jun 30, 2018 6:57:25 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestLogFileFactory created
+Jun 30, 2018 6:57:25 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestMySQLConnector created
+Jun 30, 2018 6:57:25 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestCleanupFactory created
+Jun 30, 2018 6:57:25 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestNewRelicFactory created
+Jun 30, 2018 6:57:25 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestKibanaFactory created
+Jun 30, 2018 6:57:25 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestTestDataStorage created
+Jun 30, 2018 6:57:25 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sauceConnectManager configured
+Jun 30, 2018 6:57:25 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 webdrivers setup
+Jun 30, 2018 6:57:26 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestWebDriverFactory:buildNewFireFoxLocalDriver:Info:  Creating new driver
+Jun 30, 2018 6:58:29 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 logFileFactory created
+Jun 30, 2018 6:58:29 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestOSInformationFactory created
+Jun 30, 2018 6:58:29 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 scrollIntoViewFactory created
+Jun 30, 2018 6:58:29 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestHilitePageElementFactory created
+Jun 30, 2018 6:58:29 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestJiraFactory created
+Jun 30, 2018 6:58:29 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestScreenCaptureFactory created
+Jun 30, 2018 6:58:29 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestZipFileFactory created
+Jun 30, 2018 6:58:29 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestSlackFactory created
+Jun 30, 2018 6:58:29 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestHipChatFactory created
+Jun 30, 2018 6:58:29 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestFTPFactory created
+Jun 30, 2018 6:58:29 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestCustomerAccountManagerFactory created
+Jun 30, 2018 6:58:29 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestLogFileFactory created
+Jun 30, 2018 6:58:29 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestMySQLConnector created
+Jun 30, 2018 6:58:29 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestCleanupFactory created
+Jun 30, 2018 6:58:29 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestNewRelicFactory created
+Jun 30, 2018 6:58:29 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestKibanaFactory created
+Jun 30, 2018 6:58:29 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestTestDataStorage created
+Jun 30, 2018 6:58:29 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sauceConnectManager configured
+Jun 30, 2018 6:58:29 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 webdrivers setup
+Jun 30, 2018 6:58:30 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestWebDriverFactory:buildNewFireFoxLocalDriver:Info:  Creating new driver
+Jun 30, 2018 6:59:32 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 logFileFactory created
+Jun 30, 2018 6:59:32 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestOSInformationFactory created
+Jun 30, 2018 6:59:32 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 scrollIntoViewFactory created
+Jun 30, 2018 6:59:32 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestHilitePageElementFactory created
+Jun 30, 2018 6:59:32 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestJiraFactory created
+Jun 30, 2018 6:59:32 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestScreenCaptureFactory created
+Jun 30, 2018 6:59:32 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestZipFileFactory created
+Jun 30, 2018 6:59:32 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestSlackFactory created
+Jun 30, 2018 6:59:32 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestHipChatFactory created
+Jun 30, 2018 6:59:32 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestFTPFactory created
+Jun 30, 2018 6:59:32 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestCustomerAccountManagerFactory created
+Jun 30, 2018 6:59:32 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestLogFileFactory created
+Jun 30, 2018 6:59:32 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestMySQLConnector created
+Jun 30, 2018 6:59:32 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestCleanupFactory created
+Jun 30, 2018 6:59:32 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestNewRelicFactory created
+Jun 30, 2018 6:59:32 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestKibanaFactory created
+Jun 30, 2018 6:59:32 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestTestDataStorage created
+Jun 30, 2018 6:59:32 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sauceConnectManager configured
+Jun 30, 2018 6:59:32 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 webdrivers setup
+Jun 30, 2018 6:59:33 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestWebDriverFactory:buildNewFireFoxLocalDriver:Info:  Creating new driver
+Jun 30, 2018 7:00:28 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 logFileFactory created
+Jun 30, 2018 7:00:28 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestOSInformationFactory created
+Jun 30, 2018 7:00:28 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 scrollIntoViewFactory created
+Jun 30, 2018 7:00:28 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestHilitePageElementFactory created
+Jun 30, 2018 7:00:28 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestJiraFactory created
+Jun 30, 2018 7:00:28 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestScreenCaptureFactory created
+Jun 30, 2018 7:00:28 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestZipFileFactory created
+Jun 30, 2018 7:00:28 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestSlackFactory created
+Jun 30, 2018 7:00:28 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestHipChatFactory created
+Jun 30, 2018 7:00:28 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestFTPFactory created
+Jun 30, 2018 7:00:28 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestCustomerAccountManagerFactory created
+Jun 30, 2018 7:00:28 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestLogFileFactory created
+Jun 30, 2018 7:00:28 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestMySQLConnector created
+Jun 30, 2018 7:00:29 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestCleanupFactory created
+Jun 30, 2018 7:00:29 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestNewRelicFactory created
+Jun 30, 2018 7:00:29 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestKibanaFactory created
+Jun 30, 2018 7:00:29 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestTestDataStorage created
+Jun 30, 2018 7:00:29 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sauceConnectManager configured
+Jun 30, 2018 7:00:29 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 webdrivers setup
+Jun 30, 2018 7:00:29 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestWebDriverFactory:buildNewFireFoxLocalDriver:Info:  Creating new driver
+Jun 30, 2018 7:04:06 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 logFileFactory created
+Jun 30, 2018 7:04:06 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestOSInformationFactory created
+Jun 30, 2018 7:04:06 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 scrollIntoViewFactory created
+Jun 30, 2018 7:04:06 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestHilitePageElementFactory created
+Jun 30, 2018 7:04:06 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestJiraFactory created
+Jun 30, 2018 7:04:06 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestScreenCaptureFactory created
+Jun 30, 2018 7:04:06 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestZipFileFactory created
+Jun 30, 2018 7:04:06 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestSlackFactory created
+Jun 30, 2018 7:04:06 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestHipChatFactory created
+Jun 30, 2018 7:04:06 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestFTPFactory created
+Jun 30, 2018 7:04:06 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestCustomerAccountManagerFactory created
+Jun 30, 2018 7:04:06 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestLogFileFactory created
+Jun 30, 2018 7:04:06 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestMySQLConnector created
+Jun 30, 2018 7:04:06 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestCleanupFactory created
+Jun 30, 2018 7:04:06 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestNewRelicFactory created
+Jun 30, 2018 7:04:06 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestKibanaFactory created
+Jun 30, 2018 7:04:06 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestTestDataStorage created
+Jun 30, 2018 7:04:06 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sauceConnectManager configured
+Jun 30, 2018 7:04:06 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 webdrivers setup
+Jun 30, 2018 7:04:07 PM bichromate.core.webDriverLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 sTestWebDriverFactory:buildNewFireFoxLocalDriver:Info:  Creating new driver
