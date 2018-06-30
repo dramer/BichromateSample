@@ -62,7 +62,7 @@ public class sampleTestNGDeclaration {
 
 	 protected ExtentReports extent;
 	 protected ExtentTest test;
-	    
+	 
 	 protected String filePath = "reports\\Extent.html"; 
 	 
 	private static ResourceBundle resources; // Access to the properties file for releaseNightTest.
@@ -98,7 +98,7 @@ public class sampleTestNGDeclaration {
 		if(null != path)
 			filePath = new String(path.setFilePath(filePath));
 		
-	}// billFireBaseTestNGDeclaration
+	}// sampleTestNGDeclaration
 	
 	
 	/************************************************************
@@ -133,7 +133,7 @@ public class sampleTestNGDeclaration {
 		  if(null == webDriver) 
 			   webDriver = new sampleWebDriverFactory();
 		  
-		  Reporter.log("syscoAccountCenterWebDriverFactory  created",true);
+		  Reporter.log("sampleWebDriverFactory  created",true);
 		 
 		 
 	  }//beforeMethod
@@ -339,11 +339,6 @@ public class sampleTestNGDeclaration {
 	  public void afterSuite() {
 		  Reporter.log("After Suite...",true);
 		  extent.close();
-		  
-		  //
-		  // close sauceConnection
-		  //
-		  if(null != webDriver) webDriver.closeSauceConnection();
 		  //
 		  // Create History report
 		  //
@@ -388,7 +383,7 @@ public class sampleTestNGDeclaration {
 	   * @author davidwramer
 	   * @version 1.0
 	   */
-	  @DataProvider (name = "billFireBaseTestNGDeclarationXLSDataProvider")
+	  @DataProvider (name = "SampleTestNGDataProvider")
 	  public Object[][] setupDataProviderr() {
 		  
 		  sTestSpreadsheetFactory xlFactory = new sTestSpreadsheetFactory();
@@ -402,4 +397,4 @@ public class sampleTestNGDeclaration {
 	  
 	  
 
-}//billFireBaseTestNGDeclaration
+}//sampleTestNGDeclaration

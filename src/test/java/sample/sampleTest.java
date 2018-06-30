@@ -48,10 +48,10 @@ import bichromate.core.sTestWebDriverFactory;
 
 
 @SuppressWarnings("unused")
-public class sampleTest  extends sampleTestNGDeclaration{
+public class sampleTest  extends sTestBaseTestNGDeclaration{
 	
 	private String filePath = "reports\\Extent.html"; 
-	
+	private sampleWebDriverFactory sampleWebDriver = null;
 	
 	public sampleTest(){
 		testRunXLS = "sTestSpreadSheetFactorySelfTest.xls";
@@ -61,15 +61,18 @@ public class sampleTest  extends sampleTestNGDeclaration{
 		//
 		// Create the webDriverFactory that creates all selenium webdrivers
 		//
-		webDriver = new sampleWebDriverFactory();
+		sampleWebDriver = new sampleWebDriverFactory();
+		
+		//coreWebDriverFactory = new sTestWebDriverFactory();
+		
 		
 		sTestOSInformationFactory path = new sTestOSInformationFactory();
 		filePath = new String(path.setFilePath(filePath));
 		
 		extent = extendManager.getReporter(filePath);
 		
-		if(null == webDriver){
-			System.out.println("sampleWebDriverFactory not created: ");
+		if(null == sampleWebDriver){
+			System.out.println("sTestWebDriverFactory not created: ");
 			System.exit(0);
 		}
 		//
@@ -117,8 +120,8 @@ public class sampleTest  extends sampleTestNGDeclaration{
    * @author David Ramer
    * @version 1.0 
    */
-  @Test(enabled=true, dataProvider = "billFireBaseTestNGDeclarationXLSDataProvider", groups = {"sampleTest"},description = "TestNG test to validate Bichromate")
-  public void yahooTest(String testCount, String runTest, String browser , String platform, String version, String remote, 
+  @Test(enabled=true, dataProvider = "sTestBaseTestNGDeclarationDataProvider", groups = {"sampleTest"},description = "TestNG test to validate Bichromate")
+  public void yahooTest(String testCount, String runTest, String browser , String platform, String osVersion,String version, String remote, 
           String baseURL, String description,String xlFile, String xlSheet, String xlTable) {
 	//
 	// set Jira ID
@@ -131,15 +134,15 @@ public class sampleTest  extends sampleTestNGDeclaration{
 		throw new SkipException("Skip Test");
 	}
 	
-	if(webDriver == null){
+	if(sampleWebDriver == null){
 		throw new SkipException("No oDeskWebDriver created");
 	}
 	
-	driver = webDriver.createWebDriver(remote, version, platform, browser,"yahooTest");
+	webDriver = sampleWebDriver.createWebDriver(remote, version, platform, osVersion, browser,"yahooTest");
 	//
 	// If the webDriver is not created
 	//
-	if(driver == null){
+	if(webDriver == null){
 		throw new SkipException("No Web Driver");
 	}
 	//
@@ -152,20 +155,20 @@ public class sampleTest  extends sampleTestNGDeclaration{
 	testName = new String("Start the yahooTest on " +platform+" and "+browser+" browser version "+version);
 	Reporter.log("Start the yahoo Test on " +platform+" and "+browser+" browser version "+version,true);
 	Reporter.log("Open Web Page: " + baseURL,true);
-	driver.get(baseURL);
+	webDriver.get(baseURL);
 	Reporter.log("open "+baseURL+" using "+browser,true);
 	//
 	// Make sure we see the landing page
 	//
 	Reporter.log("yahoo is open and waiting for landing page");
-	webDriver.sTestThreadWait(3000);
+	sampleWebDriver.sTestThreadWait(3000);
 	Reporter.log("Enter search Text for Red Sox");
-	webDriver.getSamplePageDeclaration().enterSearchTextBoxInfo("Red sox");
+	sampleWebDriver.getSamplePageDeclaration().enterSearchTextBoxInfo("Red sox");
 	Reporter.log("Click search");
-	webDriver.getSamplePageDeclaration().clickSearchButton();
-	webDriver.sTestThreadWait(3000);
+	sampleWebDriver.getSamplePageDeclaration().clickSearchButton();
+	sampleWebDriver.sTestThreadWait(3000);
 	Reporter.log("Searching....");
-	webDriver.sTestThreadWait(3000);
+	sampleWebDriver.sTestThreadWait(3000);
 	Reporter.log("SampleTest passed");
 	 //
 	 // All Tests Passed
@@ -175,7 +178,7 @@ public class sampleTest  extends sampleTestNGDeclaration{
 	// Update Jira if the test has a Jira ID
 	//
 	 if(!jiraTestID.equals("none")){
-		 webDriver.getJiraFactory().updateJiraTestComment(jiraTestID,"Title","ReleaseNightTest-Login Passed","David Ramer");
+		 sampleWebDriverFactory.getJiraFactory().updateJiraTestComment(jiraTestID,"Title","ReleaseNightTest-Login Passed","David Ramer");
 		  jiraTestID = "none";
 	 }
 	 //
