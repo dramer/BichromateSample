@@ -62,9 +62,10 @@ public class sampleTest  extends sTestBaseTestNGDeclaration{
 		// Create the webDriverFactory that creates all selenium webdrivers
 		//
 		sampleWebDriver = new sampleWebDriverFactory();
-		
-		//coreWebDriverFactory = new sTestWebDriverFactory();
-		
+		//
+		// This sets the coreWebDriverFactory for Bichromate
+		//
+		coreWebDriverFactory = sampleWebDriver;
 		
 		sTestOSInformationFactory path = new sTestOSInformationFactory();
 		filePath = new String(path.setFilePath(filePath));

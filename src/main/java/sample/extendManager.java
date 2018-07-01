@@ -11,7 +11,7 @@ public class extendManager {
             extent = new ExtentReports(filePath, true);
             
             extent
-                .addSystemInfo("Host Name", "BillFire QA")
+                .addSystemInfo("Host Name", "Bichrmate QA")
                 .addSystemInfo("Environment", "QA");
         }
         

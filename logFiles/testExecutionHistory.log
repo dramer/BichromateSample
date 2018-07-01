@@ -1,0 +1,14 @@
+Jul 01, 2018 8:10:12 AM bichromate.core.testExecutionLogFactory enterLog
+INFO: Following test was SKIPPED sample.sampleTest
+Jul 01, 2018 8:10:57 AM bichromate.core.testExecutionLogFactory enterLog
+INFO: Following test was SKIPPED sample.sampleTest
+Jul 01, 2018 8:16:36 AM bichromate.core.testExecutionLogFactory enterLog
+INFO: Following test was SKIPPED sample.sampleTest
+Jul 01, 2018 8:16:42 AM bichromate.core.testExecutionLogFactory enterLog
+INFO: Following test was SKIPPED sample.sampleTest
+Jul 01, 2018 8:18:54 AM bichromate.core.testExecutionLogFactory enterLog
+INFO: Following test passed sample.sampleTest
+Jul 01, 2018 8:19:10 AM bichromate.core.testExecutionLogFactory enterLog
+INFO: Following test was SKIPPED sample.sampleTest
+Jul 01, 2018 8:19:12 AM bichromate.core.testExecutionLogFactory enterLog
+INFO: Following test was SKIPPED sample.sampleTest

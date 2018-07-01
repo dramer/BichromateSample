@@ -8,3 +8,19 @@ Jul 01, 2018 7:52:11 AM bichromate.core.pageObjectModelLogFactory enterWarningLo
 WARNING: XPO-77WHP72:192.168.56.1 Error: element "Type" not found on page: searchButton
 Jul 01, 2018 7:52:11 AM bichromate.core.pageObjectModelLogFactory enterSevereLog
 SEVERE: XPO-77WHP72:192.168.56.1 samplePageDeclaration:clickSearchButton Yahoo search button not found
+Jul 01, 2018 8:07:00 AM bichromate.core.pageObjectModelLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 creating samplePageDeclaration
+Jul 01, 2018 8:07:17 AM bichromate.core.pageObjectModelLogFactory enterWarningLog
+WARNING: XPO-77WHP72:192.168.56.1 Error: element "Type" not found on page: searchField
+Jul 01, 2018 8:07:21 AM bichromate.core.pageObjectModelLogFactory enterSevereLog
+SEVERE: XPO-77WHP72:192.168.56.1 samplePageDeclaration:enterSearchTextBoxInfo Yahoo search text not found
+Jul 01, 2018 8:07:38 AM bichromate.core.pageObjectModelLogFactory enterWarningLog
+WARNING: XPO-77WHP72:192.168.56.1 Error: element "Type" not found on page: searchButton
+Jul 01, 2018 8:07:38 AM bichromate.core.pageObjectModelLogFactory enterSevereLog
+SEVERE: XPO-77WHP72:192.168.56.1 samplePageDeclaration:clickSearchButton Yahoo search button not found
+Jul 01, 2018 8:12:18 AM bichromate.core.pageObjectModelLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 creating samplePageDeclaration
+Jul 01, 2018 8:12:32 AM bichromate.core.pageObjectModelLogFactory enterWarningLog
+WARNING: XPO-77WHP72:192.168.56.1 Error: element "Type" not found on page: searchField
+Jul 01, 2018 8:18:11 AM bichromate.core.pageObjectModelLogFactory enterInfoLog
+INFO: XPO-77WHP72:192.168.56.1 creating samplePageDeclaration
