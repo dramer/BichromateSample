@@ -115,6 +115,7 @@ public class sampleTest  extends sTestBaseTestNGDeclaration{
    * @param remote - yes/no/proxy
    * @param baseURL - URL to start the test with
    * @param description - description of the test
+   * @param ebableVideo - true if you want to capture the test as video
    * @param xlFile - Name of the XL file for extra data
    * @param xlSheet - work book name for extra data
    * @param xlTable - name of the table in the work book
@@ -123,7 +124,7 @@ public class sampleTest  extends sTestBaseTestNGDeclaration{
    */
   @Test(enabled=true, dataProvider = "sTestBaseTestNGDeclarationDataProvider", groups = {"sampleTest"},description = "TestNG test to validate Bichromate")
   public void yahooTest(String testCount, String runTest, String browser , String platform, String osVersion,String version, String remote, 
-          String baseURL, String description,String xlFile, String xlSheet, String xlTable) {
+          String baseURL, String description,String enableVideo,String xlFile, String xlSheet, String xlTable) {
 	//
 	// set Jira ID
 	//
@@ -140,6 +141,8 @@ public class sampleTest  extends sTestBaseTestNGDeclaration{
 	}
 	
 	webDriver = sampleWebDriver.createWebDriver(remote, version, platform, osVersion, browser,"yahooTest");
+	
+	coreWebDriverFactory.getSTestScreenCaptureFactory().setCurrentWebDriver(webDriver);
 	//
 	// If the webDriver is not created
 	//
@@ -151,6 +154,13 @@ public class sampleTest  extends sTestBaseTestNGDeclaration{
 	//
 	test = extent.startTest("yahooTest");
    
+	//
+	// Start Video
+	//
+	if(enableVideo.equalsIgnoreCase("true")){
+		coreWebDriverFactory.getSTestVideoCaptureFactory().enableRecording();
+		coreWebDriverFactory.getSTestVideoCaptureFactory().startRecording("sampleTest");
+	}
 	
 	Reporter.log("loginTest created web driver",true);
 	testName = new String("Start the yahooTest on " +platform+" and "+browser+" browser version "+version);
@@ -179,7 +189,7 @@ public class sampleTest  extends sTestBaseTestNGDeclaration{
 	// Update Jira if the test has a Jira ID
 	//
 	 if(!jiraTestID.equals("none")){
-		 sampleWebDriverFactory.getJiraFactory().updateJiraTestComment(jiraTestID,"Title","ReleaseNightTest-Login Passed","David Ramer");
+		 sampleWebDriverFactory.getJiraFactory().updateJiraTestComment(jiraTestID,"Title","sample Yahoo Test","David Ramer");
 		  jiraTestID = "none";
 	 }
 	 //
@@ -189,5 +199,110 @@ public class sampleTest  extends sTestBaseTestNGDeclaration{
 	 Assert.assertEquals(test.getRunStatus(), LogStatus.PASS);
   }// @yahooTest
   
- 
+  /**
+   * <br>Created by: David Ramer
+   * <br>Date Created:  7/3/2018
+   * <br>Updates: 
+   *<br>
+   * <br>Test Case: This test verifies the Table element in the POM
+   * <br>Priority High
+   * <br>Setup: 
+   * <br>Status: In-progress
+   * <br>Automated: Yes
+   * <br>Execution Time: 1 minute
+   * <br>Setup: 
+   * <br><b>Steps:</b>
+   *    <br>Step 1: Launch web browser (FireFox,IE, Chrome)
+   *   	<br>Step 2: Open www.Bichromate.org/tableTest.html
+   *	<br>Step 3: Find the Table
+   *	<br>Step 4: Read all the elements
+   *	<br>Step 5: Verify results
+   * 	<br>Step 6: Close browser
+   * <br><b>Expected Results:</b> 
+   * <br> 1) Table in the web page matches what is expected on the web page
+   * <br> 2) verify Month column
+   * <br> 3) verify savings column.
+   * 
+   * 
+   * @param testCount - Jira ID
+   * @param runTest - true/false to skip test
+   * @param browser - firefox/chrome/IE
+   * @param platform - Windows/Linux/Mac
+   * @param version - Browser version
+   * @param remote - yes/no/proxy
+   * @param baseURL - URL to start the test with
+   * @param description - description of the test
+   * @param ebableVideo - true if you want to capture the test as video
+   * @param xlFile - Name of the XL file for extra data
+   * @param xlSheet - work book name for extra data
+   * @param xlTable - name of the table in the work book
+   * @author David Ramer
+   * @version 1.0 
+   */
+  @Test(enabled=false, dataProvider = "sTestBaseTestNGDeclarationDataProvider", groups = {"sampleTableTest"},description = "Sample Table Test")
+  public void sampleTableTest(String testCount, String runTest, String browser , String platform, String osVersion,String version, String remote, 
+          String baseURL, String description,String enableVideo,String xlFile, String xlSheet, String xlTable) {
+	//
+	// set Jira ID
+	//
+	jiraTestID = new String("none");
+	//
+	// Do we want to process this row of data?
+	//	
+	if(runTest.toLowerCase().contains("no")){
+		throw new SkipException("Skip Test");
+	}
+	
+	if(sampleWebDriver == null){
+		throw new SkipException("No oDeskWebDriver created");
+	}
+	
+	webDriver = sampleWebDriver.createWebDriver(remote, version, platform, osVersion, browser,"sampleTableTest");
+	
+	coreWebDriverFactory.getSTestScreenCaptureFactory().setCurrentWebDriver(webDriver);
+	//
+	// If the webDriver is not created
+	//
+	if(webDriver == null){
+		throw new SkipException("No Web Driver");
+	}
+	//
+	// Adding extend Reports
+	//
+	test = extent.startTest("yahooTest");
+   
+	//
+	// Start Video
+	//
+	if(enableVideo.equalsIgnoreCase("true")){
+		coreWebDriverFactory.getSTestVideoCaptureFactory().enableRecording();
+		coreWebDriverFactory.getSTestVideoCaptureFactory().startRecording("sampleTableTest");
+	}
+	
+	Reporter.log("loginTest created web driver",true);
+	testName = new String("Start the yahooTest on " +platform+" and "+browser+" browser version "+version);
+	Reporter.log("Start the yahoo Test on " +platform+" and "+browser+" browser version "+version,true);
+	Reporter.log("Open Web Page: " + baseURL,true);
+	webDriver.get(baseURL);
+	Reporter.log("open "+baseURL+" using "+browser,true);
+	
+	
+	 //
+	 // All Tests Passed
+	 //
+	//Reporter.log("sauceLab results: "+ webDriver.obtainTestStatusInformations(),true);
+	//
+	// Update Jira if the test has a Jira ID
+	//
+	 if(!jiraTestID.equals("none")){
+		 sampleWebDriverFactory.getJiraFactory().updateJiraTestComment(jiraTestID,"Title","sampleTable Test","David Ramer");
+		  jiraTestID = "none";
+	 }
+	 //
+	 //Extend Reports
+	 //
+	 test.log(LogStatus.PASS, "Passed yahooTest");
+	 Assert.assertEquals(test.getRunStatus(), LogStatus.PASS);
+	
+  }//Sample Table Test
 }// sampleTest
