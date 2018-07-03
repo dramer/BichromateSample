@@ -91,9 +91,9 @@ BichroMate integrates with SauceLabs, Browserstack, and the Selenium Grid. There
 
 
 # Updates
-5/29/2018  BichroMate is now in the Maven Central Repo. To access it you use the following Dependencies
+5/29/2018  BichroMate is now in the Maven Central Repo. To access it you use the following Dependencies:
 
-![BichroMate Maven Central Repository Artifact](images/mavenArtifact.JPG)
+https://mvnrepository.com/artifact/com.github.dramer/Bichromate
 
 7/11/2017  added bichromateJars folder. This contains the Bichromate jar files that need to be added to local mvn repo.
 
