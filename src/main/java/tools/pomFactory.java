@@ -29,8 +29,13 @@
  */
 package tools;
 
+import java.io.File;
 import java.net.MalformedURLException;
 import java.net.URL;
+
+import javax.swing.JFileChooser;
+import javax.swing.JOptionPane;
+
 import bichromate.core.sTestSpreadsheetFactory;
 import bichromate.tools.sTestDOMParser;
 import bichromate.tools.sTestPOMFactory;
@@ -50,6 +55,16 @@ public class pomFactory {
 		
 		try {
 			dom.parseURL(new URL(webPage));
+			 // prompt the user to enter their name
+			JFileChooser fileChooser = new JFileChooser();
+			if (fileChooser.showOpenDialog(null) == JFileChooser.APPROVE_OPTION) {
+			  File file = fileChooser.getSelectedFile();
+			  String name = new String(file.getName());
+			  name = new String(name.replaceFirst(".properties",""));
+			  pom.createPOM(file,name);
+			  System.out.println("pom file to create: "+name );
+			}
+			
 		} catch (MalformedURLException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
