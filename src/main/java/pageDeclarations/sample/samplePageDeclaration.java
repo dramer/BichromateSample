@@ -130,4 +130,13 @@ public class samplePageDeclaration extends sTestBasePageDeclaration{
 			POMLOGGER.enterSevereLog("samplePageDeclaration:clickSearchButton Yahoo search button not found");
 		}
 	}
+
+
+	@Override
+	public boolean isAjaxLoaded() {
+		// Use this method to determine if ajax is loading on your page.
+		// There is no easy way to determine if ajax has completed on the page
+		// SamplePageDeclaration does not use ajax
+		return true;
+	}
 }// samplePageDeclaration

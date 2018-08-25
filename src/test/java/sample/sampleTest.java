@@ -189,7 +189,7 @@ public class sampleTest  extends sTestBaseTestNGDeclaration{
 	// Update Jira if the test has a Jira ID
 	//
 	 if(!jiraTestID.equals("none")){
-		 sampleWebDriverFactory.getJiraFactory().updateJiraTestComment(jiraTestID,"Title","sample Yahoo Test","David Ramer");
+		 coreWebDriverFactory.getJiraFactory().updateJiraTestComment(jiraTestID,"Title","sample Yahoo Test","David Ramer");
 		  jiraTestID = "none";
 	 }
 	 //
@@ -295,7 +295,7 @@ public class sampleTest  extends sTestBaseTestNGDeclaration{
 	// Update Jira if the test has a Jira ID
 	//
 	 if(!jiraTestID.equals("none")){
-		 sampleWebDriverFactory.getJiraFactory().updateJiraTestComment(jiraTestID,"Title","sampleTable Test","David Ramer");
+		 coreWebDriverFactory.getJiraFactory().updateJiraTestComment(jiraTestID,"Title","sampleTable Test","David Ramer");
 		  jiraTestID = "none";
 	 }
 	 //
