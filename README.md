@@ -51,7 +51,7 @@ BichroMate generates the following Reports:
 ![BichroMate Report](images/BichroMateReport.JPG)
 
 ## Tools
-This sectin outlines the tools that are provided with BichroMate
+This section outlines the tools that are provided with BichroMate
 
 * CronJob - Built in cronjob lets you schedule jobs on your local machine before promoting the tests to a CI environment like Jenkins or Team City
 
@@ -74,7 +74,12 @@ Running tests within a CI environment. Bichromate has the following system varia
 * -Bichromate.sshServer - sshServer name
 
 ## 3rd Party Integrations
-BichroMate integrates with SauceLabs, Browserstack, and the Selenium Grid. There is just one function call to create a webdrive that connects to these 3rd party integrations
+BichroMate integrates with the following organizations:
+* SauceLabs 
+* Browserstack 
+* Selenium Grid. 
+
+There is just one function call to create a webdrive that connects to these 3rd party integrations
 
 * BrowserStack - https://www.browserstack.com/
 
