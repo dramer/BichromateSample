@@ -96,16 +96,15 @@ BichroMate integrates with SauceLabs, Browserstack, and the Selenium Grid. There
 * Created a new test page:  www.bichromate.org/seleniumTestPage.html This page has Ajax script that populates a table very slowly. Gives   testers the opportunity to test out their selenium waits.
 * sTestBasePageObject is now abstract and includes a function isAjaxLoaded(). Override this function for each page that has to determine   if ajax has loaded.
 
-# Updates
-5/29/2018  BichroMate is now in the Maven Central Repo. To access it you use the following Dependencies:
+# 5/29/2018  
 
-https://mvnrepository.com/artifact/com.github.dramer/Bichromate
+* BichroMate is now in the Maven Central Repo. To access it you use the following Dependencies:
+* https://mvnrepository.com/artifact/com.github.dramer/Bichromate
 
-7/11/2017  added bichromateJars folder. This contains the Bichromate jar files that need to be added to local mvn repo.
+# 7/11/2017  
+* Added bichromateJars folder. This contains the Bichromate jar files that need to be added to local mvn repo.
 
-8/28/2016 initial version. Sample project coming soon.  Email DavidWRamer@yahoo.com for more information.
-
-
-
-2) In Appium version 1.6 to find app elements you need do something like:
-driver.findElementByXPath("//android.widget.Button[@text='+']").click();
+# 8/28/2016 
+* Initial version. Sample project coming soon.  Email DavidWRamer@yahoo.com for more information.
+* In Appium version 1.6 to find app elements you need do something like:
+  driver.findElementByXPath("//android.widget.Button[@text='+']").click();
