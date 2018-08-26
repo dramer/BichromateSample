@@ -98,7 +98,7 @@ There is just one function call to create a webdrive that connects to these 3rd 
 
 # 8/25/2018
 
-* Now uses BichroMATE Maven Repo version 3.9
+* Now uses BichroMATE Maven Repo version 3.10
 * Added the pomFactory that will take a URL and turn it into a properties file and a POM file to be added to the base webdriverfactory
 * Created a new test page:  www.bichromate.org/seleniumTestPage.html This page has Ajax script that populates a table very slowly. Gives   testers the opportunity to test out their selenium waits.
 * sTestBasePageObject is now abstract and includes a function isAjaxLoaded(). Override this function for each page that has to determine   if ajax has loaded.
