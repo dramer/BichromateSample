@@ -4,10 +4,10 @@
 Gum bichromate is a 19th-century photographic printing process based on the light sensitivity of dichromates. It is capable of rendering painterly images from photographic negatives. Gum printing is traditionally a multi-layered printing process, but satisfactory results may be obtained from a single pass. Any color can be used for gum printing, so natural-color photographs are also possible by using this technique in layers.
 
 ## Created By
-David Ramer
-www.Bichromate.org
-DavidWRamer@yahoo.com
-8/9/2011
+* David Ramer
+* www.Bichromate.org
+* DavidWRamer@yahoo.com
+* Created 8/9/2011
 
 
 ## Description
@@ -109,3 +109,8 @@ BichroMate integrates with SauceLabs, Browserstack, and the Selenium Grid. There
 * Initial version. Sample project coming soon.  Email DavidWRamer@yahoo.com for more information.
 * In Appium version 1.6 to find app elements you need do something like:
   driver.findElementByXPath("//android.widget.Button[@text='+']").click();
+  
+  ## Customers
+  
+  * BichroMATE has been used succesfully in in two companies to date. 12 weeks and 5 QA to fully automate www.elance.com regression         suite.
+  * Built an entire CI/CD environment for www.BillFire.com in 4 weeks. This included proxy access to DBs to confirm table results in         BillFire's Application
