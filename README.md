@@ -110,7 +110,8 @@ BichroMate integrates with SauceLabs, Browserstack, and the Selenium Grid. There
 * In Appium version 1.6 to find app elements you need do something like:
   driver.findElementByXPath("//android.widget.Button[@text='+']").click();
   
-  ## Customers
+## Customers
   
-  * BichroMATE has been used succesfully in in two companies to date. 12 weeks and 5 QA to fully automate www.elance.com regression         suite.
-  * Built an entire CI/CD environment for www.BillFire.com in 4 weeks. This included proxy access to DBs to confirm table results in         BillFire's Application
+  * BichroMATE has been used succesfully in in two companies to date. 
+  * 12 weeks and 5 QA to fully automate www.elance.com regression suite.
+  * Built an entire CI/CD environment(Jenkins) for www.BillFire.com in 4 weeks. This included proxy access to DBs to confirm table           results in BillFire's Application
