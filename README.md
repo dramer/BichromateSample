@@ -39,12 +39,14 @@ BichroMate is built off the TestNG framework.
 ![BichroMate TestNG](images/testng.JPG)
 
 ## Reports
-BichroMate generates the standard TestNG Reports along with Extend Reports and the build in BichroMate Report that captures histor of all tests run.
-
-* First time the test was run
-* Last time the test failed
-* How many times has the test been run
-* % Pass rate
+BichroMate generates the following Reports:
+* TestNG Reports 
+* Extend Reports 
+* BichroMate Report that captures history of all tests run.
+  * First time the test was run
+  * Last time the test failed
+  * How many times has the test been run
+  * % Pass rate
 
 ![BichroMate Report](images/BichroMateReport.JPG)
 
@@ -85,7 +87,6 @@ BichroMate integrates with SauceLabs, Browserstack, and the Selenium Grid. There
 * Selenium Grid - https://www.seleniumhq.org/
 
 ![BichroMate Integrations Selenium grid](images/Selenium-Grid.png)
-
 
 
 ## Updates 
