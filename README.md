@@ -1,11 +1,12 @@
 ﻿![BichroMate](images/Splash.png)
-# BichroMate
+# BichroMATE
 
 Gum bichromate is a 19th-century photographic printing process based on the light sensitivity of dichromates. It is capable of rendering painterly images from photographic negatives. Gum printing is traditionally a multi-layered printing process, but satisfactory results may be obtained from a single pass. Any color can be used for gum printing, so natural-color photographs are also possible by using this technique in layers.
 
 ## Created By
 David Ramer
-
+www.Bichromate.org
+DavidWRamer@yahoo.com
 8/9/2011
 
 
