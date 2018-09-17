@@ -31,6 +31,29 @@ testExecutionLogFactory - captures results of all tests run.  When the @afterSui
 
 webDriverLogger - used to capture all usages of webDriver creation.
 
+## Build in Factories:
+* private static sTestJiraFactory 
+* sTestOSInformationFactory 
+* webDriverLogFactory 
+* sTestScrollIntoViewFactory
+* sTestHilitePageElementFactory
+* sTestScreenCaptureFactory
+* sTestZipFileFactory
+* sTestSlackFactory
+* sTestHipChatFactor
+* sTestVideoCaptureFactory
+* sTestMySQLConnector
+* sTestFTPFactory
+* sTestCustomerAccountManagerFactory
+* sTestLogFileFactory
+* sTestCleanupFactory
+* sTestZipCodeAPI
+* sTestNewRelicFactory 
+* sTestKibanaFactory
+* sTestTestDataStorage
+* sTestVideoCaptureFactory
+* sTestLoremipsumFactory
+
 ## Framework
 BichroMate is built off the TestNG framework.
 
@@ -94,7 +117,9 @@ There is just one function call to create a webdrive that connects to these 3rd 
 ![BichroMate Integrations Selenium grid](images/Selenium-Grid.png)
 
 
-## Updates 
+## Updates
+# 9/9/2018
+* Updated to the new release of Bichromate 3.11
 
 # 8/25/2018
 
