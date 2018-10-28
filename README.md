@@ -118,6 +118,10 @@ There is just one function call to create a webdrive that connects to these 3rd 
 
 
 ## Updates
+# 10/28/2018
+* Updated Bichromte to 3.13
+* Added new web drivers for Chrome and Firefox headless
+
 # 9/9/2018
 * Updated to the new release of Bichromate 3.11
 
