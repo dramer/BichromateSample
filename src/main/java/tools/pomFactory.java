@@ -34,7 +34,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 
 import javax.swing.JFileChooser;
-import javax.swing.JOptionPane;
+//import javax.swing.JOptionPane;
 
 import bichromate.core.sTestSpreadsheetFactory;
 import bichromate.tools.sTestDOMParser;
