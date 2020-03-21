@@ -36,11 +36,16 @@ import java.util.ResourceBundle;
 import org.openqa.selenium.remote.RemoteWebDriver;
 
 import bichromate.core.sTestWebDriverFactory;
+import pageDeclarations.LMx.LMxLandingPage;
+import pageDeclarations.LMx.LMxLoginPage;
 import pageDeclarations.sample.samplePageDeclaration;
 
 public class sampleWebDriverFactory extends sTestWebDriverFactory{
 
 	private samplePageDeclaration spd = null;
+	private LMxLandingPage lmxlandingPage = null;
+	private LMxLoginPage lmxLoginPage = null;
+	
 	static {
 		try {
 			resources = ResourceBundle.getBundle("common.Bichromate", Locale.getDefault());
@@ -72,8 +77,25 @@ public class sampleWebDriverFactory extends sTestWebDriverFactory{
 		
 	}
 	
+	public LMxLandingPage getLMxLandingPage(){
+		if(null == lmxlandingPage){
+			lmxlandingPage = new LMxLandingPage(driver);
+		}
+		return lmxlandingPage;
+		
+	}
+	public LMxLoginPage getLMxLoginPage(){
+		if(null == lmxLoginPage){
+			lmxLoginPage = new LMxLoginPage(driver);
+		}
+		return lmxLoginPage;
+		
+	}
+	
 	public void cleanWebDriver() {
 		spd = null;
+		lmxlandingPage = null;
+		lmxLoginPage = null;
 	}
 	
 	public RemoteWebDriver createWebDriver(String remote, String version,

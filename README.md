@@ -31,6 +31,29 @@ testExecutionLogFactory - captures results of all tests run.  When the @afterSui
 
 webDriverLogger - used to capture all usages of webDriver creation.
 
+## Build in Factories:
+* private static sTestJiraFactory 
+* sTestOSInformationFactory 
+* webDriverLogFactory 
+* sTestScrollIntoViewFactory
+* sTestHilitePageElementFactory
+* sTestScreenCaptureFactory
+* sTestZipFileFactory
+* sTestSlackFactory
+* sTestHipChatFactor
+* sTestVideoCaptureFactory
+* sTestMySQLConnector
+* sTestFTPFactory
+* sTestCustomerAccountManagerFactory
+* sTestLogFileFactory
+* sTestCleanupFactory
+* sTestZipCodeAPI
+* sTestNewRelicFactory 
+* sTestKibanaFactory
+* sTestTestDataStorage
+* sTestVideoCaptureFactory
+* sTestLoremipsumFactory
+
 ## Framework
 BichroMate is built off the TestNG framework.
 
@@ -94,11 +117,17 @@ There is just one function call to create a webdrive that connects to these 3rd 
 ![BichroMate Integrations Selenium grid](images/Selenium-Grid.png)
 
 
-## Updates 
+## Updates
+# 10/28/2018
+* Updated Bichromte to 3.13
+* Added new web drivers for Chrome and Firefox headless
+
+# 9/9/2018
+* Updated to the new release of Bichromate 3.11
 
 # 8/25/2018
 
-* Now uses BichroMATE Maven Repo version 3.9
+* Now uses BichroMATE Maven Repo version 3.10
 * Added the pomFactory that will take a URL and turn it into a properties file and a POM file to be added to the base webdriverfactory
 * Created a new test page:  www.bichromate.org/seleniumTestPage.html This page has Ajax script that populates a table very slowly. Gives   testers the opportunity to test out their selenium waits.
 * sTestBasePageObject is now abstract and includes a function isAjaxLoaded(). Override this function for each page that has to determine   if ajax has loaded.

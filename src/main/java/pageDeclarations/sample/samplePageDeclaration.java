@@ -37,6 +37,8 @@ import java.util.ResourceBundle;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
+import bichromate.baseObjectTypes.sTestButtonObject;
+import bichromate.baseObjectTypes.sTestTextBoxObject;
 import bichromate.core.sTestBasePageDeclaration;
 
 
@@ -54,11 +56,13 @@ import bichromate.core.sTestBasePageDeclaration;
  */
 public class samplePageDeclaration extends sTestBasePageDeclaration{
 	
-	
-	
 	String searchField = "searchField";
 	String searchButton = "searchButton";
 	static ResourceBundle resources;
+	
+	private sTestTextBoxObject searchFieldElement = null;
+	private sTestButtonObject searchButtonElement = null;
+	
 	
 	static
 	{
@@ -89,48 +93,33 @@ public class samplePageDeclaration extends sTestBasePageDeclaration{
 	
 	
 	/**
-	 * This function demonstrates enterSearchTextBoxInfo().
-	 * <br>Function to enter text into the searchFiled
-	 * <br> 
-	 * @param data text that you wish put in search field 
-	 * @author mcopa
-	 * @version 1.0
-	 */		
-	public void enterSearchTextBoxInfo(String data){
-		try{
-			WebElement element = findElement(searchField);
-			if(element != null){
-				element.click();
-				element.clear();
-				element.sendKeys(data);
-			}else{
-				POMLOGGER.enterSevereLog("samplePageDeclaration:enterSearchTextBoxInfo Yahoo search text not found");
-			}
-		}catch (Exception e){
-			POMLOGGER.enterSevereLog("samplePageDeclaration:enterSearchTextBoxInfo Yahoo search text not found");
-		}
-	}
-	
-	/**
-	 * This method demonstrates clickSearchButton().
-	 * <br>method to click the Search Button 
-	 * <br>  
-	 * @author mcopa
-	 * @version 1.0
+	 * method This class Demonstrates getSearchField().
+	 * The getSearchField uses yahoo.com landing page 
+	 * @return sTestTextBoxObject - text box object
+	 * @author davidwramer
+	 * @version 3.0
 	 */
-	public void clickSearchButton(){
-		try{
-			WebElement element = findElement(searchButton);
-			if(element != null){
-				element.click();
-			}else{
-				POMLOGGER.enterSevereLog("samplePageDeclaration:clickSearchButton Yahoo search button not found");
-			}
-		}catch (Exception e){
-			POMLOGGER.enterSevereLog("samplePageDeclaration:clickSearchButton Yahoo search button not found");
-		}
+	public sTestTextBoxObject getSearchField(){
+		
+		if(null == searchFieldElement)
+			searchFieldElement = new sTestTextBoxObject(driver,findElement(searchField),"samplePageDeclaration",POMLOGGER);
+		return searchFieldElement;
+		
 	}
-
+	/**
+	 * method This class Demonstrates getSearchButton().
+	 * The samplePageDeclaration uses yahoo.com landing page 
+	 * @return sTestButtonObject - button object
+	 * @author davidwramer
+	 * @version 3.0
+	 */
+	public sTestButtonObject getSearchButton(){
+		
+		if(null == searchFieldElement)
+			searchButtonElement = new sTestButtonObject(driver,findElement(searchButton),"samplePageDeclaration",POMLOGGER);
+		return searchButtonElement;
+		
+	}
 
 	@Override
 	public boolean isAjaxLoaded() {

@@ -174,9 +174,9 @@ public class sampleTest  extends sTestBaseTestNGDeclaration{
 	Reporter.log("yahoo is open and waiting for landing page");
 	sampleWebDriver.sTestThreadWait(3000);
 	Reporter.log("Enter search Text for Red Sox");
-	sampleWebDriver.getSamplePageDeclaration().enterSearchTextBoxInfo("Red sox");
+	sampleWebDriver.getSamplePageDeclaration().getSearchField().sTestTextBoxObjectEnterText("News");
 	Reporter.log("Click search");
-	sampleWebDriver.getSamplePageDeclaration().clickSearchButton();
+	sampleWebDriver.getSamplePageDeclaration().getSearchButton().clicksTestButtonObject();
 	sampleWebDriver.sTestThreadWait(3000);
 	Reporter.log("Searching....");
 	sampleWebDriver.sTestThreadWait(3000);
